@@ -1,6 +1,12 @@
 # AllSideProjects
 
-More than 43,000 unique side projects announcements scrapped from YC News, Reddit and other websites from May 2017 to November 2020. The data was collected by AllSideProjects.com aggregator (now closed).
+More than 43,000 unique side projects announcements scrapped from YC News, Reddit and other websites from May 2017 to November 2020. The data was collected by AllSideProjects.com aggregator (now closed). The source code is in `src` subfolder. Data is in the `data` subfolder.
+
+The screenshot of AllSideProjects.com (circa 2018)
+
+![All Side Projects screenshot](4fe23824-7007-4903-b254-7763fdd9b3f4.gif "Screenshot")
+
+
 
 # Sources
 
