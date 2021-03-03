@@ -18,7 +18,7 @@ export default class Item extends React.Component{
                         <a target="_blank" href={(this.state.item.url && this.state.item.url !== "") ? this.state.item.url : this.state.item.urlSource}>{this.state.item.title}</a>
                       </h2>
                       
-                      <div className="addthis_inline_share_toolbox_akmj" data-url={"/id/" + this.state.item.hash.toString()} data-title={this.state.item.title.slice(0,60) + (this.state.item.price > 0 ? " (price: $" + this.state.item.price.toLocaleString('en-US', { maximumSignificantDigits: 3 }) + ")" : "") +" - AllSideProjects.com"}/>
+                      <div className="addthis_inline_share_toolbox_XXXXX" data-url={"/id/" + this.state.item.hash.toString()} data-title={this.state.item.title.slice(0,60) + (this.state.item.price > 0 ? " (price: $" + this.state.item.price.toLocaleString('en-US', { maximumSignificantDigits: 3 }) + ")" : "") +" - AllSideProjects.com"}/>
 
                       <span className="mb-1 text-danger">
                       {
