@@ -1,0 +1,72 @@
+{
+  "siteUrlToParse": "https://www.sideprojectors.com/project/home",
+  "beginStringForHtmlDiv": "<body>",
+  "endStringForHtmlDiv": "</body>",
+  "occurenceOfBeginString": 1,
+  "occurenceOfEndString": 1,
+  "siteName" : "SELL, BUY & DISCOVER SIDE PROJECTS",
+  "categoryTags" : ["sideprojectors"],
+  "contentTags" : ["$ for sale"],
+  "siteUrl" : "https://www.sideprojectors.com",
+  "descriptionRawXPath" : "//div[starts-with(@class,\"project-list-box\")]/div[starts-with(@class,\"project\")]",
+  "skipEmptyItem" : "true",
+  "debug" : "false",
+  "properties": [
+    {
+      "property": "price",
+      "xpath": "//div[@class=\"project\"]/div[1]/div[1]",
+      "regex": "[0-9\\.\\,]*",
+      "valuetype": "text"
+    },
+    {
+      "property": "detailed_price",
+      "xpath": "//div[@class=\"project\"]/div[1]/div[1]",
+      "regex": "",
+      "valuetype": "text",
+      "addToDescription": "true",
+      "insertbefore": " Detailed price: "
+    },
+    {
+      "property": "type",
+      "xpath": "//div[@class=\"project\"]/div[1]/div[2]",
+      "regex": "",
+      "valuetype": "text",
+      "addToDescription": "true",
+      "insertbefore": " Project type: "
+    },
+    {
+      "property": "title",
+      "xpath": "//div[@class=\"project\"]/div[2]/a",
+      "regex": "",
+      "valuetype": "text"
+    },
+    {
+      "property": "url",
+      "xpath": "//div[@class=\"project\"]/div[2]/a/@href",
+      "regex": "",
+      "valuetype": "attrurl"
+    },
+    {
+      "property": "posted_by",
+      "xpath": "//div[@class=\"project\"]/div[3]",
+      "regex": "",
+      "valuetype": "text",
+      "addToDescription": "true",
+      "insertbefore": " Posted by: "
+    },
+    {
+      "property": "description",
+      "xpath": "//div[@class=\"project\"]/div[5]/div[2]",
+      "regex": "",
+      "valuetype": "text"
+    },
+    {
+      "property": "technology",
+      "xpath": "//div[@class=\"project\"]/div[5]/div[2]/div[3]",
+      "regex": "",
+      "valuetype": "text",
+      "addToDescription": "true",
+      "insertbefore": " Technology: "
+    }
+  ]
+}

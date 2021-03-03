@@ -1,0 +1,530 @@
+"items": [
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"0\" data-price=\"2000\" data-category=\"saas\"><a href=\"/products/shelf.bike\" title=\"shelf.bike is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-06-25T11:31:01\" class=\"time-relative\">6 hours ago</time><h2>shelf.bike</h2> <span class=\"product__category\">SaaS</span><p>Bike part and wheel tracking system</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$2,000</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/shelf.bike",
+            "title": "shelf.bike is for sale",
+            "description": " Still on sale 6 hours agoshelf.bike SaaSBike part and wheel tracking system Prices:  MRR No Profits No Asking price $2,000",
+            "price": "2000",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"0\" data-price=\"6000\" data-category=\"browser\"><a href=\"/products/eternity\" title=\"Eternity is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-06-23T16:45:26\" class=\"time-relative\">2 days ago</time><h2>Eternity</h2> <span class=\"product__category\">Browser Extension</span><p>A personal productivity dashboard for Google Chrome</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$6,000</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/eternity",
+            "title": "Eternity is for sale",
+            "description": " Still on sale 2 days agoEternity Browser ExtensionA personal productivity dashboard for Google Chrome Prices:  MRR No Profits No Asking price $6,000",
+            "price": "6000",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"220\" data-price=\"2500\" data-category=\"other\"><a href=\"/products/paidviewer\" title=\"Paidviewer is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-06-21T14:25:36\" class=\"time-relative\">4 days ago</time><h2>Paidviewer</h2> <span class=\"product__category\">Other</span><p>Reward users for watching ads and completing offers/surveys</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">$220</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">$220</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$2,500</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/paidviewer",
+            "title": "Paidviewer is for sale",
+            "description": " Still on sale 4 days agoPaidviewer OtherReward users for watching ads and completing offers/surveys Prices:  MRR $220 Profits $220 Asking price $2,500",
+            "price": "2500",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"0\" data-price=\"2600\" data-category=\"saas\"><a href=\"/products/artful.pics\" title=\"Artful.pics is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-06-20T10:59:45\" class=\"time-relative\">5 days ago</time><h2>Artful.pics</h2> <span class=\"product__category\">SaaS</span><p>Create highly engaging cinemagraphs that will convert more visitors into leads and sales.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$2,600</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/artful.pics",
+            "title": "Artful.pics is for sale",
+            "description": " Still on sale 5 days agoArtful.pics SaaSCreate highly engaging cinemagraphs that will convert more visitors into leads and sales. Prices:  MRR No Profits No Asking price $2,600",
+            "price": "2600",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"250\" data-price=\"5000\" data-category=\"other\"><a href=\"/products/wedever\" title=\"Wedever is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-06-19T12:17:27\" class=\"time-relative\">6 days ago</time><h2>Wedever</h2> <span class=\"product__category\">Other</span><p>Wedever (\"wed-ever\") is a listings site for Singaporean couples to find wedding venues and estimate the cost of their wedding.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">$250</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">$250</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$5,000</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/wedever",
+            "title": "Wedever is for sale",
+            "description": " Still on sale 6 days agoWedever OtherWedever (\"wed-ever\") is a listings site for Singaporean couples to find wedding venues and estimate the cost of their wedding. Prices:  MRR $250 Profits $250 Asking price $5,000",
+            "price": "5000",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"0\" data-price=\"1500\" data-category=\"browser\"><a href=\"/products/anna-assistant\" title=\"Anna Assistant is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-06-16T09:20:36\" class=\"time-relative\">1 week ago</time><h2>Anna Assistant</h2> <span class=\"product__category\">Browser Extension</span><p>Anna is a virtual assistant on Google Chrome</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$1,500</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/anna-assistant",
+            "title": "Anna Assistant is for sale",
+            "description": " Still on sale 1 week agoAnna Assistant Browser ExtensionAnna is a virtual assistant on Google Chrome Prices:  MRR No Profits No Asking price $1,500",
+            "price": "1500",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"0\" data-price=\"2000\" data-category=\"other\"><a href=\"/products/machine-learning-jobs-list\" title=\"ML Jobs List is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-06-14T11:29:45\" class=\"time-relative\">1 week ago</time><h2>ML Jobs List</h2> <span class=\"product__category\">Other</span><p>Machine Learning Jobs List is the #1 machine learning community to find and post jobs!</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$2,000</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/machine-learning-jobs-list",
+            "title": "ML Jobs List is for sale",
+            "description": " Still on sale 1 week agoML Jobs List OtherMachine Learning Jobs List is the #1 machine learning community to find and post jobs! Prices:  MRR No Profits No Asking price $2,000",
+            "price": "2000",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"215\" data-price=\"180\" data-category=\"other\"><a href=\"/products/cointoz\" title=\"Cointoz is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-06-13T14:43:34\" class=\"time-relative\">1 week ago</time><h2>Cointoz</h2> <span class=\"product__category\">Other</span><p>Crypto news website with a high-growth profile</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">$215</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">$215</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$180</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/cointoz",
+            "title": "Cointoz is for sale",
+            "description": " Still on sale 1 week agoCointoz OtherCrypto news website with a high-growth profile Prices:  MRR $215 Profits $215 Asking price $180",
+            "price": "180",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"400\" data-price=\"5000\" data-category=\"saas\"><a href=\"/products/makcorps\" title=\"MakCorps is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-06-02T09:23:41\" class=\"time-relative\">3 weeks ago</time><h2>MakCorps</h2> <span class=\"product__category\">SaaS</span><p>Compare more than 200 hotel websites in a simple, well-designed API</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">$400</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">$400</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$5,000</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/makcorps",
+            "title": "MakCorps is for sale",
+            "description": " Still on sale 3 weeks agoMakCorps SaaSCompare more than 200 hotel websites in a simple, well-designed API Prices:  MRR $400 Profits $400 Asking price $5,000",
+            "price": "5000",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"150\" data-price=\"4500\" data-category=\"other\"><a href=\"/products/email-verification-on-google-sheets\" title=\"Email Verification on Google Sheets is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-06-01T12:03:10\" class=\"time-relative\">3 weeks ago</time><h2>Email Verification on Google Sheets</h2> <span class=\"product__category\">Other</span><p>Email Verification Tool is an add-on that allows bulk email verification directly on Google Sheets where you have contacts collected.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">$150</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">$150</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$4,500</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/email-verification-on-google-sheets",
+            "title": "Email Verification on Google Sheets is for sale",
+            "description": " Still on sale 3 weeks agoEmail Verification on Google Sheets OtherEmail Verification Tool is an add-on that allows bulk email verification directly on Google Sheets where you have contacts collected. Prices:  MRR $150 Profits $150 Asking price $4,500",
+            "price": "4500",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"100\" data-price=\"500\" data-category=\"browser\"><a href=\"/products/ipblade\" title=\"IPBlade is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-05-25T09:36:56\" class=\"time-relative\">1 month ago</time><h2>IPBlade</h2> <span class=\"product__category\">Browser Extension</span><p>IPBlade is a zenmate or tunnelbear-like browser extension that bypasses the network restrictions that are set by governments or companies.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">$100</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">$100</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$500</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/ipblade",
+            "title": "IPBlade is for sale",
+            "description": " Still on sale 1 month agoIPBlade Browser ExtensionIPBlade is a zenmate or tunnelbear-like browser extension that bypasses the network restrictions that are set by governments or companies. Prices:  MRR $100 Profits $100 Asking price $500",
+            "price": "500",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"650\" data-price=\"19000\" data-category=\"other\"><a href=\"/products/fontgala.com\" title=\"FontGala.com is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-05-24T15:08:46\" class=\"time-relative\">1 month ago</time><h2>FontGala.com</h2> <span class=\"product__category\">Other</span><p>FontGala.com is a 4 years old MyFonts affiliate site with 34,000 premium fonts. The site is fully automated and has steady growing traffic and sales. It made $1750 in the first 3 months of 2018.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">$650</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">$650</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$19,000</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/fontgala.com",
+            "title": "FontGala.com is for sale",
+            "description": " Still on sale 1 month agoFontGala.com OtherFontGala.com is a 4 years old MyFonts affiliate site with 34,000 premium fonts. The site is fully automated and has steady growing traffic and sales. It made $1750 in the first 3 months of 2018. Prices:  MRR $650 Profits $650 Asking price $19,000",
+            "price": "19000",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"40\" data-price=\"4500\" data-category=\"other\"><a href=\"/products/navnav\" title=\"NavNav is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-05-15T08:56:35\" class=\"time-relative\">1 month ago</time><h2>NavNav</h2> <span class=\"product__category\">Other</span><p>A curated website that contains 90+ responsive navigation bar menu tutorials, examples, and demos (CSS, jQuery, JavaScript).</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">$40</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">$40</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$4,500</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/navnav",
+            "title": "NavNav is for sale",
+            "description": " Still on sale 1 month agoNavNav OtherA curated website that contains 90+ responsive navigation bar menu tutorials, examples, and demos (CSS, jQuery, JavaScript). Prices:  MRR $40 Profits $40 Asking price $4,500",
+            "price": "4500",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"250\" data-price=\"200\" data-category=\"other\"><a href=\"/products/block-daily\" title=\"Block Daily is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-05-12T11:26:19\" class=\"time-relative\">1 month ago</time><h2>Block Daily</h2> <span class=\"product__category\">Other</span><p>Block Daily is a crypto News Website that's already up and running with hundreds of news articles and a good SEO rank.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">$250</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">$250</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$200</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/block-daily",
+            "title": "Block Daily is for sale",
+            "description": " Still on sale 1 month agoBlock Daily OtherBlock Daily is a crypto News Website that's already up and running with hundreds of news articles and a good SEO rank. Prices:  MRR $250 Profits $250 Asking price $200",
+            "price": "200",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"0\" data-price=\"500\" data-category=\"other\"><a href=\"/products/coin-deets\" title=\"Coin Deets is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-04-25T15:20:33\" class=\"time-relative\">2 months ago</time><h2>Coin Deets</h2> <span class=\"product__category\">Other</span><p>Simple crypto descriptions crowdsourced from the Twitter community</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$500</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/coin-deets",
+            "title": "Coin Deets is for sale",
+            "description": " Still on sale 2 months agoCoin Deets OtherSimple crypto descriptions crowdsourced from the Twitter community Prices:  MRR No Profits No Asking price $500",
+            "price": "500",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"0\" data-price=\"0\" data-category=\"saas\"><a href=\"/products/setupkit\" title=\"Setupkit is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-04-17T14:21:11\" class=\"time-relative\">2 months ago</time><h2>Setupkit</h2> <span class=\"product__category\">SaaS</span><p>Setupkit is a cloud-based set of team collaboration tools and services. With Setupkit, you can create your own workspace and enjoy the top-notch tools that we provide to improve your workflow.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">Make offer</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/setupkit",
+            "title": "Setupkit is for sale",
+            "description": " Still on sale 2 months agoSetupkit SaaSSetupkit is a cloud-based set of team collaboration tools and services. With Setupkit, you can create your own workspace and enjoy the top-notch tools that we provide to improve your workflow. Prices:  MRR No Profits No Asking price Make offer",
+            "price": "",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"180\" data-price=\"4000\" data-category=\"saas\"><a href=\"/products/importintoblog\" title=\"ImportIntoBlog is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-04-10T12:25:43\" class=\"time-relative\">2 months ago</time><h2>ImportIntoBlog</h2> <span class=\"product__category\">SaaS</span><p>Convert any website to a WordPress blog. Your site can be built using a custom framework or static HTML files. As long as your website is online, we can convert it.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">$180</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">$180</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$4,000</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/importintoblog",
+            "title": "ImportIntoBlog is for sale",
+            "description": " Still on sale 2 months agoImportIntoBlog SaaSConvert any website to a WordPress blog. Your site can be built using a custom framework or static HTML files. As long as your website is online, we can convert it. Prices:  MRR $180 Profits $180 Asking price $4,000",
+            "price": "4000",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"27\" data-price=\"800\" data-category=\"other\"><a href=\"/products/focus-planner\" title=\"Focus Planner is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-04-07T13:43:22\" class=\"time-relative\">2 months ago</time><h2>Focus Planner</h2> <span class=\"product__category\">Other</span><p>Focus Planner is a PDF Framework built with proven productivity principles used by changemakers throughout history.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">$27</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">$27</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$800</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/focus-planner",
+            "title": "Focus Planner is for sale",
+            "description": " Still on sale 2 months agoFocus Planner OtherFocus Planner is a PDF Framework built with proven productivity principles used by changemakers throughout history. Prices:  MRR $27 Profits $27 Asking price $800",
+            "price": "800",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"0\" data-price=\"3000\" data-category=\"saas\"><a href=\"/products/webooly\" title=\"Webooly is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-04-06T13:57:53\" class=\"time-relative\">2 months ago</time><h2>Webooly</h2> <span class=\"product__category\">SaaS</span><p>Webooly helps small businesses like cafes, restaurants, bars, bands, photographers, and NGOs which have a Facebook page to get a website in seconds.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$3,000</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/webooly",
+            "title": "Webooly is for sale",
+            "description": " Still on sale 2 months agoWebooly SaaSWebooly helps small businesses like cafes, restaurants, bars, bands, photographers, and NGOs which have a Facebook page to get a website in seconds. Prices:  MRR No Profits No Asking price $3,000",
+            "price": "3000",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"1200\" data-price=\"None\" data-category=\"saas\"><a href=\"/products/pixel-tracking-saas\" title=\"A product is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-04-05T10:10:04\" class=\"time-relative\">2 months ago</time><h2>Private listing</h2> <span class=\"product__category\">SaaS</span><p>A profitable SaaS tool that allows users to add a brand Call-To-Action and retargeting pixels to the links they share.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">$1200</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">$1200</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">Make offer</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/pixel-tracking-saas",
+            "title": "A product is for sale",
+            "description": " Still on sale 2 months agoPrivate listing SaaSA profitable SaaS tool that allows users to add a brand Call-To-Action and retargeting pixels to the links they share. Prices:  MRR $1200 Profits $1200 Asking price Make offer",
+            "price": "",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"3000\" data-price=\"12000\" data-category=\"other\"><a href=\"/products/dapptrack\" title=\"Dapptrack is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-04-04T15:10:09\" class=\"time-relative\">2 months ago</time><h2>Dapptrack</h2> <span class=\"product__category\">Other</span><p>A site that works like Coinmarketcap but for decentralized apps which are one of the next big innovations in the cryptocurrency space. The site generates ad revenue from dApp developers who pay directly in Ethereum. So far, it made 6 ETH (about $2.5k) in profit.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">$3000</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">$3000</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$12,000</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/dapptrack",
+            "title": "Dapptrack is for sale",
+            "description": " Still on sale 2 months agoDapptrack OtherA site that works like Coinmarketcap but for decentralized apps which are one of the next big innovations in the cryptocurrency space. The site generates ad revenue from dApp developers who pay directly in Ethereum. So far, it made 6 ETH (about $2.5k) in profit. Prices:  MRR $3000 Profits $3000 Asking price $12,000",
+            "price": "12000",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"500\" data-price=\"30000\" data-category=\"other\"><a href=\"/products/alternote\" title=\"Alternote is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-03-30T08:02:28\" class=\"time-relative\">2 months ago</time><h2>Alternote</h2> <span class=\"product__category\">Other</span><p>macOS alternative client for Evernote created to provide users with distraction-free writing opportunities as well as to utilize Evernote's powerful backend. It carries only the essentials contrary to Evernote's policy to put as much features as possible into their clients. Alternote focused on writers rather than on data collectors.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">$500</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">$500</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$30,000</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/alternote",
+            "title": "Alternote is for sale",
+            "description": " Still on sale 2 months agoAlternote OthermacOS alternative client for Evernote created to provide users with distraction-free writing opportunities as well as to utilize Evernote's powerful backend. It carries only the essentials contrary to Evernote's policy to put as much features as possible into their clients. Alternote focused on writers rather than on data collectors. Prices:  MRR $500 Profits $500 Asking price $30,000",
+            "price": "30000",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"50\" data-price=\"None\" data-category=\"saas\"><a href=\"/products/sweet-pricing\" title=\"Sweet Pricing is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-03-28T13:11:31\" class=\"time-relative\">2 months ago</time><h2>Sweet Pricing</h2> <span class=\"product__category\">SaaS</span><p>Sweet Pricing helps mobile game and app developers with dynamic pricing. Using machine learning, our product optimally prices in-app purchases, helping our customers increase revenue and engage price-sensitive users.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">$50</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">$50</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">Make offer</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/sweet-pricing",
+            "title": "Sweet Pricing is for sale",
+            "description": " Still on sale 2 months agoSweet Pricing SaaSSweet Pricing helps mobile game and app developers with dynamic pricing. Using machine learning, our product optimally prices in-app purchases, helping our customers increase revenue and engage price-sensitive users. Prices:  MRR $50 Profits $50 Asking price Make offer",
+            "price": "",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"0\" data-price=\"35000\" data-category=\"saas\"><a href=\"/products/bounty-hunt\" title=\"Bounty Hunt is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-03-28T13:10:17\" class=\"time-relative\">2 months ago</time><h2>Bounty Hunt</h2> <span class=\"product__category\">SaaS</span><p>Bounty Hunt solves a problem we all know too well: the thankless job of paying for a group followed by reminding them to pay you back.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$35,000</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/bounty-hunt",
+            "title": "Bounty Hunt is for sale",
+            "description": " Still on sale 2 months agoBounty Hunt SaaSBounty Hunt solves a problem we all know too well: the thankless job of paying for a group followed by reminding them to pay you back. Prices:  MRR No Profits No Asking price $35,000",
+            "price": "35000",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"0\" data-price=\"25000\" data-category=\"saas\"><a href=\"/products/sync-athletics\" title=\"Sync Athletics is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-03-27T15:40:07\" class=\"time-relative\">3 months ago</time><h2>Sync Athletics</h2> <span class=\"product__category\">SaaS</span><p>Sync Athletics is a client relationship software for Personal Trainers. Trainers can build workouts, assessment forms and maintain client schedules. The application is accessible for the PT's clients as well, allowing them to complete workouts on their own.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$25,000</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/sync-athletics",
+            "title": "Sync Athletics is for sale",
+            "description": " Still on sale 3 months agoSync Athletics SaaSSync Athletics is a client relationship software for Personal Trainers. Trainers can build workouts, assessment forms and maintain client schedules. The application is accessible for the PT's clients as well, allowing them to complete workouts on their own. Prices:  MRR No Profits No Asking price $25,000",
+            "price": "25000",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"0\" data-price=\"None\" data-category=\"mobile\"><a href=\"/products/longboardmapp\" title=\"LongboardMapp is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-03-27T15:39:52\" class=\"time-relative\">3 months ago</time><h2>LongboardMapp</h2> <span class=\"product__category\">Mobile application</span><p>Find, record and share longboard routes all around the globe. ~100k users</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">Make offer</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/longboardmapp",
+            "title": "LongboardMapp is for sale",
+            "description": " Still on sale 3 months agoLongboardMapp Mobile applicationFind, record and share longboard routes all around the globe. ~100k users Prices:  MRR No Profits No Asking price Make offer",
+            "price": "",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"10\" data-price=\"3000\" data-category=\"saas\"><a href=\"/products/platformplug\" title=\"PlatformPlug is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-03-26T16:36:05\" class=\"time-relative\">3 months ago</time><h2>PlatformPlug</h2> <span class=\"product__category\">SaaS</span><p>PlatformPlug is a marketplace that connects event organisers to performers in the UK</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">$10</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">$10</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$3,000</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/platformplug",
+            "title": "PlatformPlug is for sale",
+            "description": " Still on sale 3 months agoPlatformPlug SaaSPlatformPlug is a marketplace that connects event organisers to performers in the UK Prices:  MRR $10 Profits $10 Asking price $3,000",
+            "price": "3000",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"130\" data-price=\"4000\" data-category=\"saas\"><a href=\"/products/cookie-assistant\" title=\"Cookie Assistant is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-03-26T16:35:14\" class=\"time-relative\">3 months ago</time><h2>Cookie Assistant</h2> <span class=\"product__category\">SaaS</span><p>The app makes it easy for website owners to create a cookie consent popup with a few clicks, and make it possible to change it on the fly and monitor it's performance.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">$130</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">$130</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$4,000</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/cookie-assistant",
+            "title": "Cookie Assistant is for sale",
+            "description": " Still on sale 3 months agoCookie Assistant SaaSThe app makes it easy for website owners to create a cookie consent popup with a few clicks, and make it possible to change it on the fly and monitor it's performance. Prices:  MRR $130 Profits $130 Asking price $4,000",
+            "price": "4000",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"1490\" data-price=\"2000\" data-category=\"other\"><a href=\"/products/fundraisa\" title=\"Fundraisa is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-03-23T23:54:34\" class=\"time-relative\">3 months ago</time><h2>Fundraisa</h2> <span class=\"product__category\">Other</span><p>Fundraisa is a profitable list of 6600 angel investors from 440 United States cities and 132 industries to start your fundraising process.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">$1490</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">$1490</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$2,000</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/fundraisa",
+            "title": "Fundraisa is for sale",
+            "description": " Still on sale 3 months agoFundraisa OtherFundraisa is a profitable list of 6600 angel investors from 440 United States cities and 132 industries to start your fundraising process. Prices:  MRR $1490 Profits $1490 Asking price $2,000",
+            "price": "2000",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-mrr=\"0\" data-price=\"3000\" data-category=\"other\"><a href=\"/products/cryptocoinresources.com\" title=\"CryptoCoinResources.com is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-onsale\">Still on sale</span> <time itemprop=\"releaseDate\" datetime=\"2018-03-22T09:46:41\" class=\"time-relative\">3 months ago</time><h2>CryptoCoinResources.com</h2> <span class=\"product__category\">Other</span><p>CryptoCoinResources.com is a tightly curated cryptocurrency directory for resources and companies. Our categories make sense, our site is easy to use, and we don't have a million ads to disturb your browsing.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">No</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric product__metric-price\">$3,000</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/cryptocoinresources.com",
+            "title": "CryptoCoinResources.com is for sale",
+            "description": " Still on sale 3 months agoCryptoCoinResources.com OtherCryptoCoinResources.com is a tightly curated cryptocurrency directory for resources and companies. Our categories make sense, our site is easy to use, and we don't have a million ads to disturb your browsing. Prices:  MRR No Profits No Asking price $3,000",
+            "price": "3000",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-category=\"other\"><a href=\"/products/bootstrappers.io\" title=\"bootstrappers.io is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-sold\">Sold</span> <time itemprop=\"releaseDate\" datetime=\"2018-05-18T09:44:04\" class=\"time-relative\">1 month ago</time><h2>bootstrappers.io</h2> <span class=\"product__category\">Other</span><p>Bootstrappers.io is a curated website and newsletter sharing articles for founders who are bootstrapping.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">Hidden</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">Hidden</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric \">Hidden</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/bootstrappers.io",
+            "title": "bootstrappers.io is for sale",
+            "description": " Sold 1 month agobootstrappers.io OtherBootstrappers.io is a curated website and newsletter sharing articles for founders who are bootstrapping. Prices:  MRR Hidden Profits Hidden Asking price Hidden",
+            "price": "",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-category=\"other\"><a href=\"/products/startupwatching\" title=\"Startup Watching is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-sold\">Sold</span> <time itemprop=\"releaseDate\" datetime=\"2018-04-20T08:53:29\" class=\"time-relative\">2 months ago</time><h2>Startup Watching</h2> <span class=\"product__category\">Other</span><p>StartupWatching is a newsletter with 11.500+ subscribers offering curated knowledge, inspiration and background stories from the startup world. It’s for anyone who's interested in startups and tech, from (aspiring) entrepreneurs and talented makers to digital marketers, creative developers &amp; shark investors.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">Hidden</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">Hidden</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric \">Hidden</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/startupwatching",
+            "title": "Startup Watching is for sale",
+            "description": " Sold 2 months agoStartup Watching OtherStartupWatching is a newsletter with 11.500+ subscribers offering curated knowledge, inspiration and background stories from the startup world. It’s for anyone who's interested in startups and tech, from (aspiring) entrepreneurs and talented makers to digital marketers, creative developers & shark investors. Prices:  MRR Hidden Profits Hidden Asking price Hidden",
+            "price": "",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        },
+        {
+            "descriptionRaw": "<li class=\"product\" data-category=\"saas\"><a href=\"/products/feedbeaver\" title=\"Feedbeaver is for sale\"><div class=\"product__body\"> <span class=\"product__state product__state-sold\">Sold</span> <time itemprop=\"releaseDate\" datetime=\"2018-05-16T11:21:09\" class=\"time-relative\">1 month ago</time><h2>Feedbeaver</h2> <span class=\"product__category\">SaaS</span><p>Feedbeaver enables you to start building an audience for your product directly in Facebook Messenger. With 1-click widgets that you can use on Medium, Wordpress or your own platform, we connect you with your fans with unbelievable open and click rates in an engaging and interactive medium.</p></div><ul><li> <span class=\"product__label\">MRR</span> <span class=\"product__metric\">Hidden</span></li><li> <span class=\"product__label\">Profits</span> <span class=\"product__metric\">Hidden</span></li><li> <span class=\"product__label\">Asking price</span> <span class=\"product__metric \">Hidden</span></li></ul></a></li>",
+            "url": "https://transferslot.com//products/feedbeaver",
+            "title": "Feedbeaver is for sale",
+            "description": " Sold 1 month agoFeedbeaver SaaSFeedbeaver enables you to start building an audience for your product directly in Facebook Messenger. With 1-click widgets that you can use on Medium, Wordpress or your own platform, we connect you with your fans with unbelievable open and click rates in an engaging and interactive medium. Prices:  MRR Hidden Profits Hidden Asking price Hidden",
+            "price": "",
+            "siteUrl": "https://transferslot.com/",
+            "siteName": "Great side projects for sale",
+            "categoryTags": [],
+            "contentTags": [
+                "Side project",
+                "sale"
+            ],
+            "dateCreated": "2018-6-25 17:50:11",
+            "urlSource": "https://transferslot.com/"
+        }
+    ]

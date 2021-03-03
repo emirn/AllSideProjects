@@ -1,0 +1,54 @@
+{
+  "siteUrlToParse": "https://transferslot.com/",
+  "beginStringForHtmlDiv": "<body>",
+  "endStringForHtmlDiv": "</body>",
+  "occurenceOfBeginString": 1,
+  "occurenceOfEndString": 1,
+  "siteName" : "Great side projects for sale",
+  "categoryTags" : ["transferslot"],
+  "contentTags" : ["$ for sale"],
+  "siteUrl" : "https://transferslot.com/",
+  "descriptionRawXPath" : "//li[@class=\"product\"]",
+  "skipEmptyItem" : "true",
+  "debug" : "false",
+  "properties": [
+    {
+      "property": "url",
+      "xpath": "//li[@class=\"product\"]/a/@href",
+      "regex": "",
+      "valuetype": "attrurl",
+      "insertbefore": "https://transferslot.com/"
+    },
+    {
+      "property": "title",
+      "xpath": "//li[@class=\"product\"]/a/@title",
+      "regex": "",
+      "valuetype": "attr"
+    },
+    {
+      "property": "description",
+      "xpath": "//li[@class=\"product\"]/a/div",
+      "regex": "",
+      "valuetype": "text",
+      "replacements":[
+        {"find" : "Still on sale", "replace" : ""},
+        {"find" : "1 month ago", "replace" : ""},
+        {"find" : "4 weeks ago", "replace" : ""}
+        ]
+    },
+    {
+      "property": "all_prices",
+      "xpath": "//li[@class=\"product\"]/a/ul",
+      "regex": "",
+      "valuetype": "text",
+      "addToDescription" : "true",
+      "insertbefore": " Prices: "
+    },
+    {
+      "property": "price",
+      "xpath": "//span[contains(@class, \"product__metric-price\")]",
+      "regex": "[0-9\\.\\,]*",
+      "valuetype": "text"
+    }
+  ]
+}

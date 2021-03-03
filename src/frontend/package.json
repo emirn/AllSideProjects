@@ -1,0 +1,32 @@
+{
+  "name": "all side projects",
+  "version": "1.0.0",
+  "description": "by E. Mironichev https://github.com/emirn",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js -p $PORT",
+    "build": "next build",
+    "heroku-postbuild": "next build",
+    "start": "npm run build && node server.js -p $PORT"
+  },
+  "engines": {
+    "node": "8.10"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-retry": "^1.2.1",
+    "crypto-js": "^3.1.9-1",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "isomorphic-unfetch": "^2.0.0",
+    "moment": "^2.22.2",
+    "mongoist": "^1.7.4",
+    "next": "^6.1.1",
+    "node-fetch": "^2.1.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-infinite-scroll-component": "^4.1.0"
+  }
+}

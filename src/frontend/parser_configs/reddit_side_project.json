@@ -1,0 +1,35 @@
+{
+  "siteUrlToParse": "https://www.reddit.com/r/SideProject/",
+  "beginStringForHtmlDiv": "<body>",
+  "endStringForHtmlDiv": "</body>",
+  "occurenceOfBeginString": 1,
+  "occurenceOfEndString": 1,
+  "siteName" : "reddit : the front page of internet",
+  "categoryTags" : ["reddit"],
+  "contentTags" : ["startup"],
+  "siteUrl" : "https://www.reddit.com",
+  "descriptionRawXPath" : "//div[contains(@class, \"scrollerItem\")]",
+  "skipEmptyItem" : "true",
+  "debug" : "false",
+  "properties": [
+    {
+      "property": "description",
+      "xpath": "//div[starts-with(@class,\"md\")]",
+      "regex": "",
+      "valuetype": "text"
+    },
+    {
+      "property": "url",
+      "xpath": "//a[contains(@data-click-id, \"body\")]/@href",
+      "regex": "",
+      "valuetype": "attrurl",
+      "insertbefore": "https://www.reddit.com"
+    },
+    {
+      "property": "title",
+      "xpath": "//a[contains(@data-click-id, \"body\")]",
+      "regex": "",
+      "valuetype": "text"
+    }
+  ]
+}

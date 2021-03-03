@@ -1,0 +1,35 @@
+{
+  "siteUrlToParse": "https://opengameart.org/forums/show-your-project",
+  "beginStringForHtmlDiv": "div id=\"page\" class=\"wide\"",
+  "endStringForHtmlDiv": "</div>",
+  "occurenceOfBeginString": 1,
+  "occurenceOfEndString": 1,
+  "siteName" : "Show off your project",
+  "categoryTags" : ["opengameart"],
+  "contentTags" : ["game", "startup"],
+  "siteUrl" : "https://opengameart.org",
+  "descriptionRawXPath" : "//tr[contains(@class, \"odd\") or contains(@class, \"even\")]",
+  "skipEmptyItem" : "true",
+  "debug" : "false",
+  "properties": [
+    {
+      "property": "title",
+      "xpath": "//td[@class=\"views-field views-field-title\"]/a[not(contains(@class, \"username\"))]/@title",
+      "regex": "",
+      "valuetype": "attr"
+    },
+    {
+      "property": "url",
+      "xpath": "//td[@class=\"views-field views-field-title\"]/a[not(contains(@class, \"username\"))]/@href",
+      "regex": "",
+      "valuetype": "attrurl",
+      "insertbefore": "https://opengameart.org"
+    },
+    {
+      "property": "description",
+      "xpath": "//td[@class=\"views-field views-field-title\"]/a/span/text()",
+      "regex": "",
+      "valuetype": "text"
+    }
+  ]
+}

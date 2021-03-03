@@ -1,0 +1,834 @@
+"items": [
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6337766-2\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Established Business of 5 Nutritional Supplement Brands</h5><p>This company consists of 5 separate nutritional supplement brands, ranging from generic supplements and hair nourishing products to pet supplements. While so far 65% of its sales o...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$15,000,000</span></p></div><div class=\"line_2\"><p>Revenue: $9,581,319</p><p>Income: $7,213,796</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6337766-2",
+            "title": "Established Business of 5 Nutritional Supplement Brands",
+            "description": "This company consists of 5 separate nutritional supplement brands, ranging from generic supplements and hair nourishing products to pet supplements. While so far 65% of its sales o... All prices: Revenue: $9,581,319Income: $7,213,796",
+            "price": "15000000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6299702-4\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Content Site with Nearly 20 Million Page Views Per Month &amp; 59% YOY Growth</h5><p>Producing nearly 20 million page views per month, this content site generates revenues through Google Adsense and Admob, and other small but rapidly growing sources. The website's ...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$7,500,000</span></p></div><div class=\"line_2\"><p>Revenue: $2,537,294</p><p>Income: $1,562,618</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6299702-4",
+            "title": "Content Site with Nearly 20 Million Page Views Per Month & 59% YOY Growth",
+            "description": "Producing nearly 20 million page views per month, this content site generates revenues through Google Adsense and Admob, and other small but rapidly growing sources. The website's ... All prices: Revenue: $2,537,294Income: $1,562,618",
+            "price": "7500000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6073645\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Highly Profitable FBA Business Sells Linens, SBA Pre-Approved</h5><p>This Amazon business has twice been listed on the Inc. 5000 fastest growing companies list. It has direct relationships with manufacturers to produce high quality linens, towels, ...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$4,250,000</span></p></div><div class=\"line_2\"><p>Revenue: $9,686,701</p><p>Income: $1,739,278</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6073645",
+            "title": "Highly Profitable FBA Business Sells Linens, SBA Pre-Approved",
+            "description": "This Amazon business has twice been listed on the Inc. 5000 fastest growing companies list. It has direct relationships with manufacturers to produce high quality linens, towels, ... All prices: Revenue: $9,686,701Income: $1,739,278",
+            "price": "4250000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/6711614\" class=\"item_in_border\"><h5>B2B SAAS Business w/Explosive MRR Growth of 300% YOY</h5><p>Launched in October of 2016, this B2B SAAS business is growing at an astonishing rate. The MRR has grown by 50% since January 2018 and by 300% since May of 2017. The trends in June...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$3,200,000</span></p></div><div class=\"line_2\"><p>Revenue: $517,870</p><p>Income: $466,606</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6711614",
+            "title": "B2B SAAS Business w/Explosive MRR Growth of 300% YOY",
+            "description": "Launched in October of 2016, this B2B SAAS business is growing at an astonishing rate. The MRR has grown by 50% since January 2018 and by 300% since May of 2017. The trends in June... All prices: Revenue: $517,870Income: $466,606",
+            "price": "3200000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6730746\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Growing, 19 Year-Old Drop Ship E-Commerce Business, Up 16% YOY in Net Profit</h5><p>Launched in 1999, this niche business has paved its way to the top over the last 19 years and is one of the leading internet retailers in its field. This business has been recogni...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$2,899,000</span></p></div><div class=\"line_2\"><p>Revenue: $7,985,117</p><p>Income: $852,726</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6730746",
+            "title": "Growing, 19 Year-Old Drop Ship E-Commerce Business, Up 16% YOY in Net Profit",
+            "description": "Launched in 1999, this niche business has paved its way to the top over the last 19 years and is one of the leading internet retailers in its field. This business has been recogni... All prices: Revenue: $7,985,117Income: $852,726",
+            "price": "2899000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6466899-2\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>FBA Business with Strong Growth &amp; Design Patents: Seller Financing Available</h5><p>Launched in mid-2016, this 99% German based Amazon FBA Business sells a branded &amp; trademarked line of high end travel and fashion accessories to discerning clients. One of the top-...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$2,599,000</span></p></div><div class=\"line_2\"><p>Revenue: $2,088,445</p><p>Income: $742,381</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6466899-2",
+            "title": "FBA Business with Strong Growth & Design Patents: Seller Financing Available",
+            "description": "Launched in mid-2016, this 99% German based Amazon FBA Business sells a branded & trademarked line of high end travel and fashion accessories to discerning clients. One of the top-... All prices: Revenue: $2,088,445Income: $742,381",
+            "price": "2599000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6336490-2\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Freemium Model 2,000,000 Professional Member Network (SaaS) with 66% YOY Growth</h5><p>This business is a 2,000,000 member network that connects professionals for sales leads, employment, networking, and the recently launched dating channel. The freemium model softwa...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$2,594,000</span></p></div><div class=\"line_2\"><p>Revenue: $1,187,195</p><p>Income: $740,998</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6336490-2",
+            "title": "Freemium Model 2,000,000 Professional Member Network (SaaS) with 66% YOY Growth",
+            "description": "This business is a 2,000,000 member network that connects professionals for sales leads, employment, networking, and the recently launched dating channel. The freemium model softwa... All prices: Revenue: $1,187,195Income: $740,998",
+            "price": "2594000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/5895896\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>SBA Pre-Approved Amazon Ecommerce Business Selling Niche Car Accessories</h5><p>Established in 2013, this growing SBA pre-approved business is the leader in its niche, producing and selling aftermarket accessories for Jeep Wranglers. The company primarily sell...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$1,900,000</span></p></div><div class=\"line_2\"><p>Revenue: $1,443,697</p><p>Income: $598,854</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/5895896",
+            "title": "SBA Pre-Approved Amazon Ecommerce Business Selling Niche Car Accessories",
+            "description": "Established in 2013, this growing SBA pre-approved business is the leader in its niche, producing and selling aftermarket accessories for Jeep Wranglers. The company primarily sell... All prices: Revenue: $1,443,697Income: $598,854",
+            "price": "1900000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/6706122\" class=\"item_in_border\"><h5>13 Year Old B2B eCommerce Business w/Strong Trends and Earnings</h5><p>This B2B eCommerce business is a picture of steady growth and stability. Established in 2005, it has a rich history supplying high quality, hard-to-find products, in a category wit...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$1,725,000</span></p></div><div class=\"line_2\"><p>Revenue: $2,271,176</p><p>Income: $535,476</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6706122",
+            "title": "13 Year Old B2B eCommerce Business w/Strong Trends and Earnings",
+            "description": "This B2B eCommerce business is a picture of steady growth and stability. Established in 2005, it has a rich history supplying high quality, hard-to-find products, in a category wit... All prices: Revenue: $2,271,176Income: $535,476",
+            "price": "1725000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6275605-2\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>SBA Pre-Approved Low Workload, 48% YOY Growth Fashion Jewelry and Accessories E-Commerce Business</h5><p>This opportunity is for a growing e-commerce business selling a wildly successful branded line of women's fashion jewelry, handbags, sunglasses and watches. This business, launched...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$1,550,000</span></p></div><div class=\"line_2\"><p>Revenue: $1,365,717</p><p>Income: $517,921</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6275605-2",
+            "title": "SBA Pre-Approved Low Workload, 48% YOY Growth Fashion Jewelry and Accessories E-Commerce Business",
+            "description": "This opportunity is for a growing e-commerce business selling a wildly successful branded line of women's fashion jewelry, handbags, sunglasses and watches. This business, launched... All prices: Revenue: $1,365,717Income: $517,921",
+            "price": "1550000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6646276\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>16 Year Old Established Business With Multiple Brands</h5><p>This business has a long history of selling glowsticks and telescopes Amazon's marketplace and their websites. With $7.6mm in total revenues ($5.8mm Amazon / $1.8mm websites) and a...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$1,200,000</span></p></div><div class=\"line_2\"><p>Revenue: $7,149,060</p><p>Income: $742,000</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6646276",
+            "title": "16 Year Old Established Business With Multiple Brands",
+            "description": "This business has a long history of selling glowsticks and telescopes Amazon's marketplace and their websites. With $7.6mm in total revenues ($5.8mm Amazon / $1.8mm websites) and a... All prices: Revenue: $7,149,060Income: $742,000",
+            "price": "1200000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6702903\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Amazon Store w/ Strong Brand and Substantial Growth</h5><p>A rare find in the Amazon ecosystem this store specializes in unique baby products. The store with a strong branded appeal averages 4.5-5 stars on every product they sell! With p...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$1,111,000</span></p></div><div class=\"line_2\"><p>Revenue: $1,656,784</p><p>Income: $508,779</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6702903",
+            "title": "Amazon Store w/ Strong Brand and Substantial Growth",
+            "description": "A rare find in the Amazon ecosystem this store specializes in unique baby products. The store with a strong branded appeal averages 4.5-5 stars on every product they sell! With p... All prices: Revenue: $1,656,784Income: $508,779",
+            "price": "1111000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/1427029\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Direct Marketing Business with 80% Repeat Customers!</h5><p>This business offers a specific type of direct response marketing, mostly to real estate professionals, but with practical applications for many different industries. Growth has b...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$999,000</span></p></div><div class=\"line_2\"><p>Revenue: $2,366,834</p><p>Income: $362,795</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/1427029",
+            "title": "Direct Marketing Business with 80% Repeat Customers!",
+            "description": "This business offers a specific type of direct response marketing, mostly to real estate professionals, but with practical applications for many different industries. Growth has b... All prices: Revenue: $2,366,834Income: $362,795",
+            "price": "999000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/6612944\" class=\"item_in_border\"><h5>Established eCommerce Business: Design Patent &amp; Trademark, Pending Utility Patent</h5><p>This three-year-old eCommerce business sells a branded line of products geared mainly toward men. There is a trademark and design patent in the UK, and a provisional utility patent...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$859,000</span></p></div><div class=\"line_2\"><p>Revenue: $1,529,228</p><p>Income: $341,355</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6612944",
+            "title": "Established eCommerce Business: Design Patent & Trademark, Pending Utility Patent",
+            "description": "This three-year-old eCommerce business sells a branded line of products geared mainly toward men. There is a trademark and design patent in the UK, and a provisional utility patent... All prices: Revenue: $1,529,228Income: $341,355",
+            "price": "859000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6594247\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Collectible Supply Business, 5 Consecutive Years of Growth, 71% Gross Profit Margins</h5><p>It is rare to come across an online business that is more than 10 years old, but this business boasts 40 years of history! After moving to an entirely online environment 10 years a...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$839,000</span></p></div><div class=\"line_2\"><p>Revenue: $1,052,381</p><p>Income: $253,977</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6594247",
+            "title": "Collectible Supply Business, 5 Consecutive Years of Growth, 71% Gross Profit Margins",
+            "description": "It is rare to come across an online business that is more than 10 years old, but this business boasts 40 years of history! After moving to an entirely online environment 10 years a... All prices: Revenue: $1,052,381Income: $253,977",
+            "price": "839000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/5412202\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Price Reduced: 14 Year Old SaaS Business: Low Workload</h5><p>Owned by a Developer, not a Marketer, this 14-year old SaaS business helps keep people organized and on track. It was named one of the top 10 of its kind in 2018 by a well-known te...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$675,000</span></p></div><div class=\"line_2\"><p>Revenue: $443,194</p><p>Income: $348,324</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/5412202",
+            "title": "Price Reduced: 14 Year Old SaaS Business: Low Workload",
+            "description": "Owned by a Developer, not a Marketer, this 14-year old SaaS business helps keep people organized and on track. It was named one of the top 10 of its kind in 2018 by a well-known te... All prices: Revenue: $443,194Income: $348,324",
+            "price": "675000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/4921962\" class=\"item_in_border\"><h5>SBA Pre-Approved: 25 Year Old Ecommerce Business Selling Professional Audio Equipment</h5><p>Established in 1993 and ran by the current owner for over 10 years, this ecommerce business sells professional audio equipment through a variety of channels, from Amazon to their o...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$620,000</span></p></div><div class=\"line_2\"><p>Revenue: $1,949,172</p><p>Income: $206,879</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/4921962",
+            "title": "SBA Pre-Approved: 25 Year Old Ecommerce Business Selling Professional Audio Equipment",
+            "description": "Established in 1993 and ran by the current owner for over 10 years, this ecommerce business sells professional audio equipment through a variety of channels, from Amazon to their o... All prices: Revenue: $1,949,172Income: $206,879",
+            "price": "620000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6696916\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>77% YOY Growth, Low Workload Digital Source Code Templates E-Commerce Marketplace and Community</h5><p>This opportunity is a thriving, easy-to-run ecommerce marketplace connecting developers of apps and games templates to customers looking for high quality source code. This business...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$479,659</span></p></div><div class=\"line_2\"><p>Revenue: $751,672</p><p>Income: $199,858</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6696916",
+            "title": "77% YOY Growth, Low Workload Digital Source Code Templates E-Commerce Marketplace and Community",
+            "description": "This opportunity is a thriving, easy-to-run ecommerce marketplace connecting developers of apps and games templates to customers looking for high quality source code. This business... All prices: Revenue: $751,672Income: $199,858",
+            "price": "479659",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/6211972-3\" class=\"item_in_border\"><h5>Motivated Seller w/100% Drop Ship Business in Gaming Industry</h5><p>Launched in 2014 this pair of websites sell products in the video gaming space. In addition to the web stores the business has substantial sales coming from Amazon, Best Buy, Newe...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$399,000</span></p></div><div class=\"line_2\"><p>Revenue: $728,597</p><p>Income: $177,005</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6211972-3",
+            "title": "Motivated Seller w/100% Drop Ship Business in Gaming Industry",
+            "description": "Launched in 2014 this pair of websites sell products in the video gaming space. In addition to the web stores the business has substantial sales coming from Amazon, Best Buy, Newe... All prices: Revenue: $728,597Income: $177,005",
+            "price": "399000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6331934-2\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>4 Year-Old Fantasy Sports SaaS Business</h5><p>Established in 2014, this growing SaaS business offers a popular fantasy sports plugin providing members and sports fans with white label, turn-key interactive fantasy games and co...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$275,000</span></p></div><div class=\"line_2\"><p>Revenue: $129,335</p><p>Income: $98,812</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6331934-2",
+            "title": "4 Year-Old Fantasy Sports SaaS Business",
+            "description": "Established in 2014, this growing SaaS business offers a popular fantasy sports plugin providing members and sports fans with white label, turn-key interactive fantasy games and co... All prices: Revenue: $129,335Income: $98,812",
+            "price": "275000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/5837788\" class=\"item_in_border\"><h5>Drop-ship Ecommerce Business Selling Emergency Lights and Related Products</h5><p>Established in 2012, this fully drop-ship based ecommerce business focuses on the design, procurement, and delivery of highly specialized, value engineered solutions for the lighti...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$250,000</span></p></div><div class=\"line_2\"><p>Revenue: $883,539</p><p>Income: $83,969</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/5837788",
+            "title": "Drop-ship Ecommerce Business Selling Emergency Lights and Related Products",
+            "description": "Established in 2012, this fully drop-ship based ecommerce business focuses on the design, procurement, and delivery of highly specialized, value engineered solutions for the lighti... All prices: Revenue: $883,539Income: $83,969",
+            "price": "250000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/6388396-3\" class=\"item_in_border\"><h5>Off-Amazon Dropship eCommerce Business Selling Water Filling Stations</h5><p>Launched in December 2015, this business provides speciality bottle filling stations, primarily used in schools and offices all over the country. The owner has a significant pas...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$209,300</span></p></div><div class=\"line_2\"><p>Revenue: $1,302,453</p><p>Income: $80,940</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6388396-3",
+            "title": "Off-Amazon Dropship eCommerce Business Selling Water Filling Stations",
+            "description": "Launched in December 2015, this business provides speciality bottle filling stations, primarily used in schools and offices all over the country. The owner has a significant pas... All prices: Revenue: $1,302,453Income: $80,940",
+            "price": "209300",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/5759928-2\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Low-Workload Amazon FBA Business in Water Testing Industry</h5><p>This 100% Amazon FBA business sells high quality water testing and cleaning products that allow people to test the quality of their drinking water, as well as water used in pools, ...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$202,000</span></p></div><div class=\"line_2\"><p>Revenue: $456,406</p><p>Income: $95,385</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/5759928-2",
+            "title": "Low-Workload Amazon FBA Business in Water Testing Industry",
+            "description": "This 100% Amazon FBA business sells high quality water testing and cleaning products that allow people to test the quality of their drinking water, as well as water used in pools, ... All prices: Revenue: $456,406Income: $95,385",
+            "price": "202000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/5455084\" class=\"item_in_border\"><h5>Motivated Seller – Branded Fitness Apparel and Accessory business</h5><p>This Fitness Apparel and Accessory business was started in January 2016. With a vision of creating a brand for people who understand that life doesn't have to be that serious, it w...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$169,995</span></p></div><div class=\"line_2\"><p>Revenue: $316,994</p><p>Income: $80,484</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/5455084",
+            "title": "Motivated Seller – Branded Fitness Apparel and Accessory business",
+            "description": "This Fitness Apparel and Accessory business was started in January 2016. With a vision of creating a brand for people who understand that life doesn't have to be that serious, it w... All prices: Revenue: $316,994Income: $80,484",
+            "price": "169995",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/6783144\" class=\"item_in_border\"><h5>Software to Run Your Own SEO Agency and Create Recurring Income</h5><p>This is a start-up business opportunity, not an established business entity for sale. If running your own business with high recurring revenues is a goal, look closely at this o...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$150,000</span></p></div><div class=\"line_2\"><p>Revenue: N/A</p><p>Income: N/A</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6783144",
+            "title": "Software to Run Your Own SEO Agency and Create Recurring Income",
+            "description": "This is a start-up business opportunity, not an established business entity for sale. If running your own business with high recurring revenues is a goal, look closely at this o... All prices: Revenue: N/AIncome: N/A",
+            "price": "150000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/5469874-3\" class=\"item_in_border\"><h5>10 Year Old eCommerce Business with Established Private Label Brand</h5><p>Launched in 2008, this seasonal eCommerce business came about by accident. The owner operates a business in the healthcare field but saw some seasonal uptick in one of the products...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$92,500</span></p></div><div class=\"line_2\"><p>Revenue: $142,898</p><p>Income: $38,787</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/5469874-3",
+            "title": "10 Year Old eCommerce Business with Established Private Label Brand",
+            "description": "Launched in 2008, this seasonal eCommerce business came about by accident. The owner operates a business in the healthcare field but saw some seasonal uptick in one of the products... All prices: Revenue: $142,898Income: $38,787",
+            "price": "92500",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/6711614\" class=\"item_in_border\"><h5>B2B SAAS Business w/Explosive MRR Growth of 300% YOY</h5><p>Launched in October of 2016, this B2B SAAS business is growing at an astonishing rate. The MRR has grown by 50% since January 2018 and by 300% since May of 2017. The trends in June...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$3,200,000</span></p></div><div class=\"line_2\"><p>Revenue: $517,870</p><p>Income: $466,606</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6711614",
+            "title": "B2B SAAS Business w/Explosive MRR Growth of 300% YOY",
+            "description": "Launched in October of 2016, this B2B SAAS business is growing at an astonishing rate. The MRR has grown by 50% since January 2018 and by 300% since May of 2017. The trends in June... All prices: Revenue: $517,870Income: $466,606",
+            "price": "3200000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/6706122\" class=\"item_in_border\"><h5>13 Year Old B2B eCommerce Business w/Strong Trends and Earnings</h5><p>This B2B eCommerce business is a picture of steady growth and stability. Established in 2005, it has a rich history supplying high quality, hard-to-find products, in a category wit...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$1,725,000</span></p></div><div class=\"line_2\"><p>Revenue: $2,271,176</p><p>Income: $535,476</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6706122",
+            "title": "13 Year Old B2B eCommerce Business w/Strong Trends and Earnings",
+            "description": "This B2B eCommerce business is a picture of steady growth and stability. Established in 2005, it has a rich history supplying high quality, hard-to-find products, in a category wit... All prices: Revenue: $2,271,176Income: $535,476",
+            "price": "1725000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/6612944\" class=\"item_in_border\"><h5>Established eCommerce Business: Design Patent &amp; Trademark, Pending Utility Patent</h5><p>This three-year-old eCommerce business sells a branded line of products geared mainly toward men. There is a trademark and design patent in the UK, and a provisional utility patent...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$859,000</span></p></div><div class=\"line_2\"><p>Revenue: $1,529,228</p><p>Income: $341,355</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6612944",
+            "title": "Established eCommerce Business: Design Patent & Trademark, Pending Utility Patent",
+            "description": "This three-year-old eCommerce business sells a branded line of products geared mainly toward men. There is a trademark and design patent in the UK, and a provisional utility patent... All prices: Revenue: $1,529,228Income: $341,355",
+            "price": "859000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/4921962\" class=\"item_in_border\"><h5>SBA Pre-Approved: 25 Year Old Ecommerce Business Selling Professional Audio Equipment</h5><p>Established in 1993 and ran by the current owner for over 10 years, this ecommerce business sells professional audio equipment through a variety of channels, from Amazon to their o...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$620,000</span></p></div><div class=\"line_2\"><p>Revenue: $1,949,172</p><p>Income: $206,879</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/4921962",
+            "title": "SBA Pre-Approved: 25 Year Old Ecommerce Business Selling Professional Audio Equipment",
+            "description": "Established in 1993 and ran by the current owner for over 10 years, this ecommerce business sells professional audio equipment through a variety of channels, from Amazon to their o... All prices: Revenue: $1,949,172Income: $206,879",
+            "price": "620000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/6211972-3\" class=\"item_in_border\"><h5>Motivated Seller w/100% Drop Ship Business in Gaming Industry</h5><p>Launched in 2014 this pair of websites sell products in the video gaming space. In addition to the web stores the business has substantial sales coming from Amazon, Best Buy, Newe...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$399,000</span></p></div><div class=\"line_2\"><p>Revenue: $728,597</p><p>Income: $177,005</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6211972-3",
+            "title": "Motivated Seller w/100% Drop Ship Business in Gaming Industry",
+            "description": "Launched in 2014 this pair of websites sell products in the video gaming space. In addition to the web stores the business has substantial sales coming from Amazon, Best Buy, Newe... All prices: Revenue: $728,597Income: $177,005",
+            "price": "399000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/5837788\" class=\"item_in_border\"><h5>Drop-ship Ecommerce Business Selling Emergency Lights and Related Products</h5><p>Established in 2012, this fully drop-ship based ecommerce business focuses on the design, procurement, and delivery of highly specialized, value engineered solutions for the lighti...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$250,000</span></p></div><div class=\"line_2\"><p>Revenue: $883,539</p><p>Income: $83,969</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/5837788",
+            "title": "Drop-ship Ecommerce Business Selling Emergency Lights and Related Products",
+            "description": "Established in 2012, this fully drop-ship based ecommerce business focuses on the design, procurement, and delivery of highly specialized, value engineered solutions for the lighti... All prices: Revenue: $883,539Income: $83,969",
+            "price": "250000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/6388396-3\" class=\"item_in_border\"><h5>Off-Amazon Dropship eCommerce Business Selling Water Filling Stations</h5><p>Launched in December 2015, this business provides speciality bottle filling stations, primarily used in schools and offices all over the country. The owner has a significant pas...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$209,300</span></p></div><div class=\"line_2\"><p>Revenue: $1,302,453</p><p>Income: $80,940</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6388396-3",
+            "title": "Off-Amazon Dropship eCommerce Business Selling Water Filling Stations",
+            "description": "Launched in December 2015, this business provides speciality bottle filling stations, primarily used in schools and offices all over the country. The owner has a significant pas... All prices: Revenue: $1,302,453Income: $80,940",
+            "price": "209300",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/5455084\" class=\"item_in_border\"><h5>Motivated Seller – Branded Fitness Apparel and Accessory business</h5><p>This Fitness Apparel and Accessory business was started in January 2016. With a vision of creating a brand for people who understand that life doesn't have to be that serious, it w...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$169,995</span></p></div><div class=\"line_2\"><p>Revenue: $316,994</p><p>Income: $80,484</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/5455084",
+            "title": "Motivated Seller – Branded Fitness Apparel and Accessory business",
+            "description": "This Fitness Apparel and Accessory business was started in January 2016. With a vision of creating a brand for people who understand that life doesn't have to be that serious, it w... All prices: Revenue: $316,994Income: $80,484",
+            "price": "169995",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/6783144\" class=\"item_in_border\"><h5>Software to Run Your Own SEO Agency and Create Recurring Income</h5><p>This is a start-up business opportunity, not an established business entity for sale. If running your own business with high recurring revenues is a goal, look closely at this o...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$150,000</span></p></div><div class=\"line_2\"><p>Revenue: N/A</p><p>Income: N/A</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6783144",
+            "title": "Software to Run Your Own SEO Agency and Create Recurring Income",
+            "description": "This is a start-up business opportunity, not an established business entity for sale. If running your own business with high recurring revenues is a goal, look closely at this o... All prices: Revenue: N/AIncome: N/A",
+            "price": "150000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li><a href=\"https://www.quietlightbrokerage.com/listings/5469874-3\" class=\"item_in_border\"><h5>10 Year Old eCommerce Business with Established Private Label Brand</h5><p>Launched in 2008, this seasonal eCommerce business came about by accident. The owner operates a business in the healthcare field but saw some seasonal uptick in one of the products...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$92,500</span></p></div><div class=\"line_2\"><p>Revenue: $142,898</p><p>Income: $38,787</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/5469874-3",
+            "title": "10 Year Old eCommerce Business with Established Private Label Brand",
+            "description": "Launched in 2008, this seasonal eCommerce business came about by accident. The owner operates a business in the healthcare field but saw some seasonal uptick in one of the products... All prices: Revenue: $142,898Income: $38,787",
+            "price": "92500",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6337766-2\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Established Business of 5 Nutritional Supplement Brands</h5><p>This company consists of 5 separate nutritional supplement brands, ranging from generic supplements and hair nourishing products to pet supplements. While so far 65% of its sales o...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$15,000,000</span></p></div><div class=\"line_2\"><p>Revenue: $9,581,319</p><p>Income: $7,213,796</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6337766-2",
+            "title": "Established Business of 5 Nutritional Supplement Brands",
+            "description": "This company consists of 5 separate nutritional supplement brands, ranging from generic supplements and hair nourishing products to pet supplements. While so far 65% of its sales o... All prices: Revenue: $9,581,319Income: $7,213,796",
+            "price": "15000000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6299702-4\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Content Site with Nearly 20 Million Page Views Per Month &amp; 59% YOY Growth</h5><p>Producing nearly 20 million page views per month, this content site generates revenues through Google Adsense and Admob, and other small but rapidly growing sources. The website's ...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$7,500,000</span></p></div><div class=\"line_2\"><p>Revenue: $2,537,294</p><p>Income: $1,562,618</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6299702-4",
+            "title": "Content Site with Nearly 20 Million Page Views Per Month & 59% YOY Growth",
+            "description": "Producing nearly 20 million page views per month, this content site generates revenues through Google Adsense and Admob, and other small but rapidly growing sources. The website's ... All prices: Revenue: $2,537,294Income: $1,562,618",
+            "price": "7500000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6073645\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Highly Profitable FBA Business Sells Linens, SBA Pre-Approved</h5><p>This Amazon business has twice been listed on the Inc. 5000 fastest growing companies list. It has direct relationships with manufacturers to produce high quality linens, towels, ...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$4,250,000</span></p></div><div class=\"line_2\"><p>Revenue: $9,686,701</p><p>Income: $1,739,278</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6073645",
+            "title": "Highly Profitable FBA Business Sells Linens, SBA Pre-Approved",
+            "description": "This Amazon business has twice been listed on the Inc. 5000 fastest growing companies list. It has direct relationships with manufacturers to produce high quality linens, towels, ... All prices: Revenue: $9,686,701Income: $1,739,278",
+            "price": "4250000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6730746\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Growing, 19 Year-Old Drop Ship E-Commerce Business, Up 16% YOY in Net Profit</h5><p>Launched in 1999, this niche business has paved its way to the top over the last 19 years and is one of the leading internet retailers in its field. This business has been recogni...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$2,899,000</span></p></div><div class=\"line_2\"><p>Revenue: $7,985,117</p><p>Income: $852,726</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6730746",
+            "title": "Growing, 19 Year-Old Drop Ship E-Commerce Business, Up 16% YOY in Net Profit",
+            "description": "Launched in 1999, this niche business has paved its way to the top over the last 19 years and is one of the leading internet retailers in its field. This business has been recogni... All prices: Revenue: $7,985,117Income: $852,726",
+            "price": "2899000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6466899-2\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>FBA Business with Strong Growth &amp; Design Patents: Seller Financing Available</h5><p>Launched in mid-2016, this 99% German based Amazon FBA Business sells a branded &amp; trademarked line of high end travel and fashion accessories to discerning clients. One of the top-...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$2,599,000</span></p></div><div class=\"line_2\"><p>Revenue: $2,088,445</p><p>Income: $742,381</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6466899-2",
+            "title": "FBA Business with Strong Growth & Design Patents: Seller Financing Available",
+            "description": "Launched in mid-2016, this 99% German based Amazon FBA Business sells a branded & trademarked line of high end travel and fashion accessories to discerning clients. One of the top-... All prices: Revenue: $2,088,445Income: $742,381",
+            "price": "2599000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6336490-2\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Freemium Model 2,000,000 Professional Member Network (SaaS) with 66% YOY Growth</h5><p>This business is a 2,000,000 member network that connects professionals for sales leads, employment, networking, and the recently launched dating channel. The freemium model softwa...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$2,594,000</span></p></div><div class=\"line_2\"><p>Revenue: $1,187,195</p><p>Income: $740,998</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6336490-2",
+            "title": "Freemium Model 2,000,000 Professional Member Network (SaaS) with 66% YOY Growth",
+            "description": "This business is a 2,000,000 member network that connects professionals for sales leads, employment, networking, and the recently launched dating channel. The freemium model softwa... All prices: Revenue: $1,187,195Income: $740,998",
+            "price": "2594000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/5895896\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>SBA Pre-Approved Amazon Ecommerce Business Selling Niche Car Accessories</h5><p>Established in 2013, this growing SBA pre-approved business is the leader in its niche, producing and selling aftermarket accessories for Jeep Wranglers. The company primarily sell...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$1,900,000</span></p></div><div class=\"line_2\"><p>Revenue: $1,443,697</p><p>Income: $598,854</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/5895896",
+            "title": "SBA Pre-Approved Amazon Ecommerce Business Selling Niche Car Accessories",
+            "description": "Established in 2013, this growing SBA pre-approved business is the leader in its niche, producing and selling aftermarket accessories for Jeep Wranglers. The company primarily sell... All prices: Revenue: $1,443,697Income: $598,854",
+            "price": "1900000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6275605-2\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>SBA Pre-Approved Low Workload, 48% YOY Growth Fashion Jewelry and Accessories E-Commerce Business</h5><p>This opportunity is for a growing e-commerce business selling a wildly successful branded line of women's fashion jewelry, handbags, sunglasses and watches. This business, launched...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$1,550,000</span></p></div><div class=\"line_2\"><p>Revenue: $1,365,717</p><p>Income: $517,921</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6275605-2",
+            "title": "SBA Pre-Approved Low Workload, 48% YOY Growth Fashion Jewelry and Accessories E-Commerce Business",
+            "description": "This opportunity is for a growing e-commerce business selling a wildly successful branded line of women's fashion jewelry, handbags, sunglasses and watches. This business, launched... All prices: Revenue: $1,365,717Income: $517,921",
+            "price": "1550000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6646276\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>16 Year Old Established Business With Multiple Brands</h5><p>This business has a long history of selling glowsticks and telescopes Amazon's marketplace and their websites. With $7.6mm in total revenues ($5.8mm Amazon / $1.8mm websites) and a...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$1,200,000</span></p></div><div class=\"line_2\"><p>Revenue: $7,149,060</p><p>Income: $742,000</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6646276",
+            "title": "16 Year Old Established Business With Multiple Brands",
+            "description": "This business has a long history of selling glowsticks and telescopes Amazon's marketplace and their websites. With $7.6mm in total revenues ($5.8mm Amazon / $1.8mm websites) and a... All prices: Revenue: $7,149,060Income: $742,000",
+            "price": "1200000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6702903\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Amazon Store w/ Strong Brand and Substantial Growth</h5><p>A rare find in the Amazon ecosystem this store specializes in unique baby products. The store with a strong branded appeal averages 4.5-5 stars on every product they sell! With p...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$1,111,000</span></p></div><div class=\"line_2\"><p>Revenue: $1,656,784</p><p>Income: $508,779</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6702903",
+            "title": "Amazon Store w/ Strong Brand and Substantial Growth",
+            "description": "A rare find in the Amazon ecosystem this store specializes in unique baby products. The store with a strong branded appeal averages 4.5-5 stars on every product they sell! With p... All prices: Revenue: $1,656,784Income: $508,779",
+            "price": "1111000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/1427029\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Direct Marketing Business with 80% Repeat Customers!</h5><p>This business offers a specific type of direct response marketing, mostly to real estate professionals, but with practical applications for many different industries. Growth has b...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$999,000</span></p></div><div class=\"line_2\"><p>Revenue: $2,366,834</p><p>Income: $362,795</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/1427029",
+            "title": "Direct Marketing Business with 80% Repeat Customers!",
+            "description": "This business offers a specific type of direct response marketing, mostly to real estate professionals, but with practical applications for many different industries. Growth has b... All prices: Revenue: $2,366,834Income: $362,795",
+            "price": "999000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6594247\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Collectible Supply Business, 5 Consecutive Years of Growth, 71% Gross Profit Margins</h5><p>It is rare to come across an online business that is more than 10 years old, but this business boasts 40 years of history! After moving to an entirely online environment 10 years a...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$839,000</span></p></div><div class=\"line_2\"><p>Revenue: $1,052,381</p><p>Income: $253,977</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6594247",
+            "title": "Collectible Supply Business, 5 Consecutive Years of Growth, 71% Gross Profit Margins",
+            "description": "It is rare to come across an online business that is more than 10 years old, but this business boasts 40 years of history! After moving to an entirely online environment 10 years a... All prices: Revenue: $1,052,381Income: $253,977",
+            "price": "839000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/5412202\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Price Reduced: 14 Year Old SaaS Business: Low Workload</h5><p>Owned by a Developer, not a Marketer, this 14-year old SaaS business helps keep people organized and on track. It was named one of the top 10 of its kind in 2018 by a well-known te...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$675,000</span></p></div><div class=\"line_2\"><p>Revenue: $443,194</p><p>Income: $348,324</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/5412202",
+            "title": "Price Reduced: 14 Year Old SaaS Business: Low Workload",
+            "description": "Owned by a Developer, not a Marketer, this 14-year old SaaS business helps keep people organized and on track. It was named one of the top 10 of its kind in 2018 by a well-known te... All prices: Revenue: $443,194Income: $348,324",
+            "price": "675000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6696916\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>77% YOY Growth, Low Workload Digital Source Code Templates E-Commerce Marketplace and Community</h5><p>This opportunity is a thriving, easy-to-run ecommerce marketplace connecting developers of apps and games templates to customers looking for high quality source code. This business...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$479,659</span></p></div><div class=\"line_2\"><p>Revenue: $751,672</p><p>Income: $199,858</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6696916",
+            "title": "77% YOY Growth, Low Workload Digital Source Code Templates E-Commerce Marketplace and Community",
+            "description": "This opportunity is a thriving, easy-to-run ecommerce marketplace connecting developers of apps and games templates to customers looking for high quality source code. This business... All prices: Revenue: $751,672Income: $199,858",
+            "price": "479659",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/6331934-2\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>4 Year-Old Fantasy Sports SaaS Business</h5><p>Established in 2014, this growing SaaS business offers a popular fantasy sports plugin providing members and sports fans with white label, turn-key interactive fantasy games and co...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$275,000</span></p></div><div class=\"line_2\"><p>Revenue: $129,335</p><p>Income: $98,812</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/6331934-2",
+            "title": "4 Year-Old Fantasy Sports SaaS Business",
+            "description": "Established in 2014, this growing SaaS business offers a popular fantasy sports plugin providing members and sports fans with white label, turn-key interactive fantasy games and co... All prices: Revenue: $129,335Income: $98,812",
+            "price": "275000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        },
+        {
+            "descriptionRaw": "<li> <a href=\"https://www.quietlightbrokerage.com/listings/5759928-2\" class=\"item_in_border\"><span class=\"item_label\">Sale pending</span><h5>Low-Workload Amazon FBA Business in Water Testing Industry</h5><p>This 100% Amazon FBA business sells high quality water testing and cleaning products that allow people to test the quality of their drinking water, as well as water used in pools, ...</p><div class=\"bottom_info\"><div class=\"line_1\"><p>Asking price:<span>$202,000</span></p></div><div class=\"line_2\"><p>Revenue: $456,406</p><p>Income: $95,385</p></div></div></a></li>",
+            "url": "https://www.quietlightbrokerage.com/listings/5759928-2",
+            "title": "Low-Workload Amazon FBA Business in Water Testing Industry",
+            "description": "This 100% Amazon FBA business sells high quality water testing and cleaning products that allow people to test the quality of their drinking water, as well as water used in pools, ... All prices: Revenue: $456,406Income: $95,385",
+            "price": "202000",
+            "siteUrl": "https://www.quietlightbrokerage.com",
+            "siteName": "We Sell High-Value Websites - Website brokerage",
+            "categoryTags": [],
+            "contentTags": [
+                "website",
+                "sale"
+            ],
+            "dateCreated": "2018-6-26 12:33:51",
+            "urlSource": "https://www.quietlightbrokerage.com/listings"
+        }
+    ]

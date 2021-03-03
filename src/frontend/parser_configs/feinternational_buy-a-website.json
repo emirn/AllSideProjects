@@ -1,0 +1,50 @@
+{
+  "siteUrlToParse": "https://feinternational.com/buy-a-website/",
+  "beginStringForHtmlDiv": "<body>",
+  "endStringForHtmlDiv": "</body>",  
+  "occurenceOfBeginString": 1,
+  "occurenceOfEndString": 1,
+  "siteName" : "Buy a Website - Websites for Sale - FE International Website Brokers",
+  "categoryTags" : ["feinternational"],
+  "contentTags" : ["web","$ for sale"],
+  "siteUrl" : "https://feinternational.com",
+  "descriptionRawXPath" : "//div[@class=\"listing\"]",
+  "skipEmptyItem" : "true",
+  "debug" : "false",
+  "properties": [
+    {
+      "property": "title",
+      "xpath": "//h2[@class=\"listing-title\"]",
+      "regex": "",
+      "valuetype": "text"
+    },
+    {
+      "property": "url",
+      "xpath": "//h2[@class=\"listing-title\"]/a/@href",
+      "regex": "",
+      "valuetype": "attrurl"
+    },
+    {
+      "property": "yearly_revenue",
+      "xpath": "//dd[@class=\"listing-overview-item listing-overview-item--yearly-revenue\"]",
+      "regex": "",
+      "valuetype": "text",
+      "addToDescription" : "true",
+      "insertbefore" : " Yearly revenue: "
+    },
+    {
+      "property": "price",
+      "xpath": "//dd[@class=\"listing-overview-item listing-overview-item--asking-price\"]",
+      "regex": "",
+      "valuetype": "text"
+    },
+    {
+      "property": "description",
+      "xpath": "//div[@class=\"listing-description\"]/p",
+      "regex": "",
+      "valuetype": "text",
+      "replacements":[{"find" : "For sale is an", "replace" : ""}]      
+      
+    }
+  ]
+}

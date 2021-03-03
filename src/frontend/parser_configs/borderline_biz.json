@@ -1,0 +1,43 @@
+{
+  "siteUrl" : "http://borderline.biz/",
+  "siteName" : "Borderline is a marketplace for side projects.",
+  "categoryTags" : ["borderline"],
+  "contentTags" : ["$ for sale"],
+  "siteUrlToParse": "http://borderline.biz/",
+  "beginStringForHtmlDiv": "<ol class=\"project-list\">",
+  "endStringForHtmlDiv": "</ol>",
+  "occurenceOfBeginString": 1,
+  "occurenceOfEndString": 1,
+  "descriptionRawXPath" : "//li",
+  "skipEmptyItem" : "true",
+  "debug" : "false",
+  "properties": [
+    {
+      "property": "title",
+      "xpath": "//a[@class=\"title\"]",
+      "regex": "",
+      "valuetype": "text",
+      "addToField": "description"
+    },
+    {
+      "property": "url",
+      "xpath": "//a[@class=\"title\"]/@href",
+      "regex": "",
+      "valuetype": "attr"
+    },
+    {
+      "property": "description",
+      "xpath": "//li",
+      "regex": "",
+      "valuetype": "raw",
+      "cleantags": "true",
+      "replacements":[{"find" : "Email Owner", "replace" : ""}]
+    },
+    {
+      "property": "price",
+      "xpath": "//p[@class=\"ask\"]",
+      "regex": "",
+      "valuetype": "text"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "siteUrlToParse": "http://www.githustle.com/developer/projects",
+  "beginStringForHtmlDiv": "<div id=\"application\">",
+  "endStringForHtmlDiv": "</div>",
+  "occurenceOfBeginString": 1,
+  "occurenceOfEndString": 2,
+  "siteName" : "We connect developers to talented marketers.",
+  "categoryTags" : ["githustle"],
+  "contentTags" :  ["startup"],
+  "siteUrl" : "http://www.githustle.com",
+  "descriptionRawXPath" : "//div[@class=\"card\"]",
+  "skipEmptyItem" : "true",
+  "debug" : "false",
+  "properties": [
+    {
+      "property": "description",
+      "xpath": "//div[@class=\"card\"]/div/div[2]/div[2]/div/h6/text()",
+      "regex": "",
+      "valuetype": "text"
+    },
+    {
+      "property": "title",
+      "xpath": "//div[@class=\"card\"]/div/div[2]/div[1]/div/h4/a/text()",
+      "regex": "",
+      "valuetype": "text"
+    }
+  ]
+}

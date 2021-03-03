@@ -1,0 +1,22 @@
+service: parsing-engine
+
+provider:
+  name: aws
+  runtime: nodejs8.10
+  memorySize: 3000
+  timeout: 30
+  region: us-east-1
+  deploymentBucket:
+    name: DEPLOYMENT_BUCKET_NAME
+
+functions:
+  parsingEngine:
+    handler: index.handler
+    events:
+      - http:
+          path: content
+          method: POST
+          cors: true
+package:
+  exclude:
+    - parsing-engine.zip

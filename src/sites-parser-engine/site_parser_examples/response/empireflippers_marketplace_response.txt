@@ -1,0 +1,752 @@
+"items": [
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/43981/\" class=\"ng-binding\">Confectionary</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/43981/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/43981/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/43981/\" class=\"ng-binding\">Amazon FBA</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/43981/\" class=\"ng-binding\">February 2012</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/43981/\" class=\"ng-binding\">$66,512.08</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/43981/\" class=\"ng-binding\">$2,194,898.64</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Portfolio Paul</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">6</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/43981/\" class=\"ng-binding\">43981</a></td></tr>",
+            "url": "https://empireflippers.com/listing/43981/",
+            "price": "2194898.64",
+            "description": " Niche: Confectionary Date established: February 2012 Monetization: Amazon FBA Net Profit: $66,512.08",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44069/\" class=\"ng-binding\">Apparel &amp; Accessories</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44069/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44069/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44069/\" class=\"ng-binding\">Amazon FBA, eCommerce</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44069/\" class=\"ng-binding\">October 2013</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44069/\" class=\"ng-binding\">$47,053.19</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44069/\" class=\"ng-binding\">$1,552,755.34</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Portfolio Paul, Flipper Fred</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">5</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44069/\" class=\"ng-binding\">44069</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44069/",
+            "price": "1552755.34",
+            "description": " Niche: Apparel & Accessories Date established: October 2013 Monetization: Amazon FBA, eCommerce Net Profit: $47,053.19",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44689/\" class=\"ng-binding\">Health &amp; Fitness, Beauty</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44689/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44689/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44689/\" class=\"ng-binding\">Amazon FBA</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44689/\" class=\"ng-binding\">February 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44689/\" class=\"ng-binding\">$50,704.34</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44689/\" class=\"ng-binding\">$1,419,721.52</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry, Portfolio Paul</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44689/\" class=\"ng-binding\">44689</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44689/",
+            "price": "1419721.52",
+            "description": " Niche: Health & Fitness, Beauty Date established: February 2016 Monetization: Amazon FBA Net Profit: $50,704.34",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44299/\" class=\"ng-binding\">Apparel &amp; Accessories</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44299/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44299/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44299/\" class=\"ng-binding\">Dropshipping</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44299/\" class=\"ng-binding\">March 2015</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44299/\" class=\"ng-binding\">$35,264.66</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44299/\" class=\"ng-binding\">$1,198,823.68</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">DIY David</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">3</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44299/\" class=\"ng-binding\">44299</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44299/",
+            "price": "1198823.68",
+            "description": " Niche: Apparel & Accessories Date established: March 2015 Monetization: Dropshipping Net Profit: $35,264.66",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44671/\" class=\"ng-binding\">Audio, Audio</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44671/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44671/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44671/\" class=\"ng-binding\">Affiliate</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44671/\" class=\"ng-binding\">February 2013</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44671/\" class=\"ng-binding\">$27,271.73</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44671/\" class=\"ng-binding\">$1,145,415.60</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry, Flipper Fred, Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">5</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44671/\" class=\"ng-binding\">44671</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44671/",
+            "price": "1145415.60",
+            "description": " Niche: Audio, Audio Date established: February 2013 Monetization: Affiliate Net Profit: $27,271.73",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44060/\" class=\"ng-binding\">Apparel &amp; Accessories</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44060/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44060/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44060/\" class=\"ng-binding\">eCommerce</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44060/\" class=\"ng-binding\">June 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44060/\" class=\"ng-binding\">$31,012.10</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44060/\" class=\"ng-binding\">$930,363.00</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Portfolio Paul, Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44060/\" class=\"ng-binding\">44060</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44060/",
+            "price": "930363.00",
+            "description": " Niche: Apparel & Accessories Date established: June 2016 Monetization: eCommerce Net Profit: $31,012.10",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44472/\" class=\"ng-binding\">Apparel &amp; Accessories</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44472/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44472/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44472/\" class=\"ng-binding\">eCommerce, Amazon FBA, Other</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44472/\" class=\"ng-binding\">March 2011</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44472/\" class=\"ng-binding\">$21,164.40</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44472/\" class=\"ng-binding\">$846,576.00</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Portfolio Paul, Flipper Fred, Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">7</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44472/\" class=\"ng-binding\">44472</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44472/",
+            "price": "846576.00",
+            "description": " Niche: Apparel & Accessories Date established: March 2011 Monetization: eCommerce, Amazon FBA, Other Net Profit: $21,164.40",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44373/\" class=\"ng-binding\">Apparel &amp; Accessories</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44373/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44373/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44373/\" class=\"ng-binding\">Dropshipping</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44373/\" class=\"ng-binding\">November 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44373/\" class=\"ng-binding\">$28,259.77</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44373/\" class=\"ng-binding\">$791,273.56</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">DIY David</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44373/\" class=\"ng-binding\">44373</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44373/",
+            "price": "791273.56",
+            "description": " Niche: Apparel & Accessories Date established: November 2016 Monetization: Dropshipping Net Profit: $28,259.77",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44573/\" class=\"ng-binding\">Gaming</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44573/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44573/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44573/\" class=\"ng-binding\">Advertising, App</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44573/\" class=\"ng-binding\">December 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44573/\" class=\"ng-binding\">$24,510.71</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44573/\" class=\"ng-binding\">$759,831.70</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">DIY David</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44573/\" class=\"ng-binding\">44573</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44573/",
+            "price": "759831.70",
+            "description": " Niche: Gaming Date established: December 2016 Monetization: Advertising, App Net Profit: $24,510.71",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44227/\" class=\"ng-binding\">Technology</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44227/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44227/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44227/\" class=\"ng-binding\">SaaS</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44227/\" class=\"ng-binding\">October 2015</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44227/\" class=\"ng-binding\">$17,871.05</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44227/\" class=\"ng-binding\">$714,842.00</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry, Portfolio Paul</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">3</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44227/\" class=\"ng-binding\">44227</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44227/",
+            "price": "714842.00",
+            "description": " Niche: Technology Date established: October 2015 Monetization: SaaS Net Profit: $17,871.05",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/40979/\" class=\"ng-binding\">Finance</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/40979/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/40979/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/40979/\" class=\"ng-binding\">eCommerce</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/40979/\" class=\"ng-binding\">January 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/40979/\" class=\"ng-binding\">$21,540.37</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/40979/\" class=\"ng-binding\">$667,751.47</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/40979/\" class=\"ng-binding\">40979</a></td></tr>",
+            "url": "https://empireflippers.com/listing/40979/",
+            "price": "667751.47",
+            "description": " Niche: Finance Date established: January 2016 Monetization: eCommerce Net Profit: $21,540.37",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44752/\" class=\"ng-binding\">Hobbies &amp; Tools</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44752/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44752/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44752/\" class=\"ng-binding\">Amazon FBA</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44752/\" class=\"ng-binding\">February 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44752/\" class=\"ng-binding\">$22,416.03</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44752/\" class=\"ng-binding\">$627,648.84</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry, Portfolio Paul, Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44752/\" class=\"ng-binding\">44752</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44752/",
+            "price": "627648.84",
+            "description": " Niche: Hobbies & Tools Date established: February 2016 Monetization: Amazon FBA Net Profit: $22,416.03",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44346/\" class=\"ng-binding\">Apparel &amp; Accessories</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44346/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44346/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44346/\" class=\"ng-binding\">eCommerce, Dropshipping, Amazon FBA</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44346/\" class=\"ng-binding\">January 2017</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44346/\" class=\"ng-binding\">$19,011.31</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44346/\" class=\"ng-binding\">$589,350.61</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry, Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">1</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44346/\" class=\"ng-binding\">44346</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44346/",
+            "price": "589350.61",
+            "description": " Niche: Apparel & Accessories Date established: January 2017 Monetization: eCommerce, Dropshipping, Amazon FBA Net Profit: $19,011.31",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44486/\" class=\"ng-binding\">Technology</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44486/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44486/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44486/\" class=\"ng-binding\">Dropshipping</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44486/\" class=\"ng-binding\">September 2014</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44486/\" class=\"ng-binding\">$16,297.88</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44486/\" class=\"ng-binding\">$570,396.40</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry, Portfolio Paul</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">4</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44486/\" class=\"ng-binding\">44486</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44486/",
+            "price": "570396.40",
+            "description": " Niche: Technology Date established: September 2014 Monetization: Dropshipping Net Profit: $16,297.88",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44502/\" class=\"ng-binding\">Sports &amp; Outdoors</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44502/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44502/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44502/\" class=\"ng-binding\">eCommerce</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44502/\" class=\"ng-binding\">April 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44502/\" class=\"ng-binding\">$17,077.27</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44502/\" class=\"ng-binding\">$546,470.08</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Portfolio Paul, Flipper Fred, Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44502/\" class=\"ng-binding\">44502</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44502/",
+            "price": "546470.08",
+            "description": " Niche: Sports & Outdoors Date established: April 2016 Monetization: eCommerce Net Profit: $17,077.27",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44315/\" class=\"ng-binding\">Apparel &amp; Accessories</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44315/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44315/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44315/\" class=\"ng-binding\">Dropshipping</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44315/\" class=\"ng-binding\">November 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44315/\" class=\"ng-binding\">$17,869.50</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44315/\" class=\"ng-binding\">$536,084.70</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">DIY David, Lifestyle Larry</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44315/\" class=\"ng-binding\">44315</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44315/",
+            "price": "536084.70",
+            "description": " Niche: Apparel & Accessories Date established: November 2016 Monetization: Dropshipping Net Profit: $17,869.50",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44207/\" class=\"ng-binding\">Technology</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44207/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44207/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44207/\" class=\"ng-binding\">Amazon FBA</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44207/\" class=\"ng-binding\">October 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44207/\" class=\"ng-binding\">$22,342.42</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44207/\" class=\"ng-binding\">$513,875.56</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry, Portfolio Paul</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44207/\" class=\"ng-binding\">44207</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44207/",
+            "price": "513875.56",
+            "description": " Niche: Technology Date established: October 2016 Monetization: Amazon FBA Net Profit: $22,342.42",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44516/\" class=\"ng-binding\">Multiple</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44516/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44516/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44516/\" class=\"ng-binding\">Lead Gen</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44516/\" class=\"ng-binding\">January 2017</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44516/\" class=\"ng-binding\">$23,164.19</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44516/\" class=\"ng-binding\">$486,449.20</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Portfolio Paul, Flipper Fred, Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">1</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44516/\" class=\"ng-binding\">44516</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44516/",
+            "price": "486449.20",
+            "description": " Niche: Multiple Date established: January 2017 Monetization: Lead Gen Net Profit: $23,164.19",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44432/\" class=\"ng-binding\">Apparel &amp; Accessories</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44432/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44432/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44432/\" class=\"ng-binding\">Dropshipping, Affiliate</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44432/\" class=\"ng-binding\">August 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44432/\" class=\"ng-binding\">$16,208.23</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44432/\" class=\"ng-binding\">$470,932.50</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry, Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44432/\" class=\"ng-binding\">44432</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44432/",
+            "price": "470932.50",
+            "description": " Niche: Apparel & Accessories Date established: August 2016 Monetization: Dropshipping, Affiliate Net Profit: $16,208.23",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44479/\" class=\"ng-binding\">Travel</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44479/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44479/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44479/\" class=\"ng-binding\">Service</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44479/\" class=\"ng-binding\">April 2011</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44479/\" class=\"ng-binding\">$15,356.12</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44479/\" class=\"ng-binding\">$460,683.90</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry, Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">7</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44479/\" class=\"ng-binding\">44479</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44479/",
+            "price": "460683.90",
+            "description": " Niche: Travel Date established: April 2011 Monetization: Service Net Profit: $15,356.12",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44390/\" class=\"ng-binding\">Home Accessories</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44390/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44390/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44390/\" class=\"ng-binding\">Amazon FBA</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44390/\" class=\"ng-binding\">August 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44390/\" class=\"ng-binding\">$17,490.35</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44390/\" class=\"ng-binding\">$454,749.10</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry, Portfolio Paul</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44390/\" class=\"ng-binding\">44390</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44390/",
+            "price": "454749.10",
+            "description": " Niche: Home Accessories Date established: August 2016 Monetization: Amazon FBA Net Profit: $17,490.35",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44085/\" class=\"ng-binding\">Software</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44085/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44085/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44085/\" class=\"ng-binding\">Digital Product, Service</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44085/\" class=\"ng-binding\">February 2003</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44085/\" class=\"ng-binding\">$12,929.90</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44085/\" class=\"ng-binding\">$413,756.48</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">DIY David</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">15</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44085/\" class=\"ng-binding\">44085</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44085/",
+            "price": "413756.48",
+            "description": " Niche: Software Date established: February 2003 Monetization: Digital Product, Service Net Profit: $12,929.90",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44451/\" class=\"ng-binding\">Occasions &amp; Gifts</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44451/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44451/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44451/\" class=\"ng-binding\">Amazon FBA</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44451/\" class=\"ng-binding\">September 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44451/\" class=\"ng-binding\">$12,718.77</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44451/\" class=\"ng-binding\">$381,563.10</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry, Portfolio Paul</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44451/\" class=\"ng-binding\">44451</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44451/",
+            "price": "381563.10",
+            "description": " Niche: Occasions & Gifts Date established: September 2016 Monetization: Amazon FBA Net Profit: $12,718.77",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44624/\" class=\"ng-binding\">Home &amp; Kitchen</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44624/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44624/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44624/\" class=\"ng-binding\">Amazon FBA</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44624/\" class=\"ng-binding\">September 2013</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44624/\" class=\"ng-binding\">$11,559.56</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44624/\" class=\"ng-binding\">$323,667.40</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Flipper Fred, Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">5</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44624/\" class=\"ng-binding\">44624</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44624/",
+            "price": "323667.40",
+            "description": " Niche: Home & Kitchen Date established: September 2013 Monetization: Amazon FBA Net Profit: $11,559.56",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44295/\" class=\"ng-binding\">Apparel &amp; Accessories</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44295/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44295/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44295/\" class=\"ng-binding\">Dropshipping</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44295/\" class=\"ng-binding\">January 2017</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44295/\" class=\"ng-binding\">$10,353.69</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44295/\" class=\"ng-binding\">$320,964.39</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Newbie Norms, Portfolio Paul</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">1</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44295/\" class=\"ng-binding\">44295</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44295/",
+            "price": "320964.39",
+            "description": " Niche: Apparel & Accessories Date established: January 2017 Monetization: Dropshipping Net Profit: $10,353.69",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44697/\" class=\"ng-binding\">Pets</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44697/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44697/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44697/\" class=\"ng-binding\">Dropshipping</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44697/\" class=\"ng-binding\">September 2015</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44697/\" class=\"ng-binding\">$10,312.00</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44697/\" class=\"ng-binding\">$309,360.30</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry, Flipper Fred</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">3</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44697/\" class=\"ng-binding\">44697</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44697/",
+            "price": "309360.30",
+            "description": " Niche: Pets Date established: September 2015 Monetization: Dropshipping Net Profit: $10,312.00",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44562/\" class=\"ng-binding\">SEO</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44562/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44562/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44562/\" class=\"ng-binding\">Service</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44562/\" class=\"ng-binding\">April 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44562/\" class=\"ng-binding\">$11,812.01</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44562/\" class=\"ng-binding\">$307,112.39</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44562/\" class=\"ng-binding\">44562</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44562/",
+            "price": "307112.39",
+            "description": " Niche: SEO Date established: April 2016 Monetization: Service Net Profit: $11,812.01",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44520/\" class=\"ng-binding\">Hosting</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44520/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44520/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44520/\" class=\"ng-binding\">Other</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44520/\" class=\"ng-binding\">October 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44520/\" class=\"ng-binding\">$9,984.63</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44520/\" class=\"ng-binding\">$299,538.98</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44520/\" class=\"ng-binding\">44520</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44520/",
+            "price": "299538.98",
+            "description": " Niche: Hosting Date established: October 2016 Monetization: Other Net Profit: $9,984.63",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/43781/\" class=\"ng-binding\">Apparel &amp; Accessories</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/43781/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/43781/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/43781/\" class=\"ng-binding\">eCommerce</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/43781/\" class=\"ng-binding\">December 2012</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/43781/\" class=\"ng-binding\">$11,515.40</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/43781/\" class=\"ng-binding\">$297,777.92</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Portfolio Paul, Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">6</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/43781/\" class=\"ng-binding\">43781</a></td></tr>",
+            "url": "https://empireflippers.com/listing/43781/",
+            "price": "297777.92",
+            "description": " Niche: Apparel & Accessories Date established: December 2012 Monetization: eCommerce Net Profit: $11,515.40",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44261/\" class=\"ng-binding\">Home &amp; Garden</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44261/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44261/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44261/\" class=\"ng-binding\">Amazon FBA</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44261/\" class=\"ng-binding\">September 2014</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44261/\" class=\"ng-binding\">$10,656.39</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44261/\" class=\"ng-binding\">$287,722.53</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">4</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44261/\" class=\"ng-binding\">44261</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44261/",
+            "price": "287722.53",
+            "description": " Niche: Home & Garden Date established: September 2014 Monetization: Amazon FBA Net Profit: $10,656.39",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44531/\" class=\"ng-binding\">Health &amp; Personal Care</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44531/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44531/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44531/\" class=\"ng-binding\">eCommerce, Dropshipping, Amazon FBA</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44531/\" class=\"ng-binding\">January 1995</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44531/\" class=\"ng-binding\">$6,710.33</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44531/\" class=\"ng-binding\">$268,413.20</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry, Portfolio Paul</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">23</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44531/\" class=\"ng-binding\">44531</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44531/",
+            "price": "268413.20",
+            "description": " Niche: Health & Personal Care Date established: January 1995 Monetization: eCommerce, Dropshipping, Amazon FBA Net Profit: $6,710.33",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44089/\" class=\"ng-binding\">Pet Accessories</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44089/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44089/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44089/\" class=\"ng-binding\">Amazon FBA</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44089/\" class=\"ng-binding\">November 2015</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44089/\" class=\"ng-binding\">$8,882.54</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44089/\" class=\"ng-binding\">$266,476.17</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry, Portfolio Paul</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">3</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44089/\" class=\"ng-binding\">44089</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44089/",
+            "price": "266476.17",
+            "description": " Niche: Pet Accessories Date established: November 2015 Monetization: Amazon FBA Net Profit: $8,882.54",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44571/\" class=\"ng-binding\">Home &amp; Kitchen</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44571/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44571/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44571/\" class=\"ng-binding\">eCommerce</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44571/\" class=\"ng-binding\">November 2015</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44571/\" class=\"ng-binding\">$9,019.92</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44571/\" class=\"ng-binding\">$261,577.68</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry, Portfolio Paul, Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">3</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44571/\" class=\"ng-binding\">44571</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44571/",
+            "price": "261577.68",
+            "description": " Niche: Home & Kitchen Date established: November 2015 Monetization: eCommerce Net Profit: $9,019.92",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44691/\" class=\"ng-binding\">Design</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44691/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44691/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44691/\" class=\"ng-binding\">SaaS</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44691/\" class=\"ng-binding\">January 2011</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44691/\" class=\"ng-binding\">$6,530.95</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44691/\" class=\"ng-binding\">$261,237.60</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry, Portfolio Paul, Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">7</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44691/\" class=\"ng-binding\">44691</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44691/",
+            "price": "261237.60",
+            "description": " Niche: Design Date established: January 2011 Monetization: SaaS Net Profit: $6,530.95",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44720/\" class=\"ng-binding\">Home</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44720/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44720/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44720/\" class=\"ng-binding\">Amazon FBA</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44720/\" class=\"ng-binding\">June 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44720/\" class=\"ng-binding\">$10,013.39</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44720/\" class=\"ng-binding\">$260,348.14</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Portfolio Paul, Flipper Fred</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44720/\" class=\"ng-binding\">44720</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44720/",
+            "price": "260348.14",
+            "description": " Niche: Home Date established: June 2016 Monetization: Amazon FBA Net Profit: $10,013.39",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44526/\" class=\"ng-binding\">Children's</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44526/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44526/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44526/\" class=\"ng-binding\">Amazon FBA, Amazon Merch, Dropshipping</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44526/\" class=\"ng-binding\">December 2015</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44526/\" class=\"ng-binding\">$9,096.55</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44526/\" class=\"ng-binding\">$254,703.40</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Portfolio Paul, Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">3</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44526/\" class=\"ng-binding\">44526</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44526/",
+            "price": "254703.40",
+            "description": " Niche: Children's Date established: December 2015 Monetization: Amazon FBA, Amazon Merch, Dropshipping Net Profit: $9,096.55",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/43909/\" class=\"ng-binding\">Home Furnishings</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/43909/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/43909/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/43909/\" class=\"ng-binding\">Dropshipping</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/43909/\" class=\"ng-binding\">May 2013</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/43909/\" class=\"ng-binding\">$8,384.59</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/43909/\" class=\"ng-binding\">$251,537.65</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Portfolio Paul</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">5</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/43909/\" class=\"ng-binding\">43909</a></td></tr>",
+            "url": "https://empireflippers.com/listing/43909/",
+            "price": "251537.65",
+            "description": " Niche: Home Furnishings Date established: May 2013 Monetization: Dropshipping Net Profit: $8,384.59",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/43915/\" class=\"ng-binding\">Home &amp; Kitchen</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/43915/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/43915/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/43915/\" class=\"ng-binding\">Other</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/43915/\" class=\"ng-binding\">April 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/43915/\" class=\"ng-binding\">$10,390.72</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/43915/\" class=\"ng-binding\">$249,377.28</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">DIY David</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/43915/\" class=\"ng-binding\">43915</a></td></tr>",
+            "url": "https://empireflippers.com/listing/43915/",
+            "price": "249377.28",
+            "description": " Niche: Home & Kitchen Date established: April 2016 Monetization: Other Net Profit: $10,390.72",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44473/\" class=\"ng-binding\">Apparel &amp; Accessories</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44473/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44473/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44473/\" class=\"ng-binding\">Dropshipping</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44473/\" class=\"ng-binding\">October 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44473/\" class=\"ng-binding\">$9,952.07</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44473/\" class=\"ng-binding\">$248,801.67</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">DIY David</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44473/\" class=\"ng-binding\">44473</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44473/",
+            "price": "248801.67",
+            "description": " Niche: Apparel & Accessories Date established: October 2016 Monetization: Dropshipping Net Profit: $9,952.07",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44335/\" class=\"ng-binding\">Health &amp; Supplements</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44335/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44335/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44335/\" class=\"ng-binding\">Amazon FBA, Dropshipping</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44335/\" class=\"ng-binding\">January 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44335/\" class=\"ng-binding\">$10,222.86</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44335/\" class=\"ng-binding\">$245,348.64</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44335/\" class=\"ng-binding\">44335</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44335/",
+            "price": "245348.64",
+            "description": " Niche: Health & Supplements Date established: January 2016 Monetization: Amazon FBA, Dropshipping Net Profit: $10,222.86",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44095/\" class=\"ng-binding\">Apparel &amp; Accessories</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44095/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44095/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44095/\" class=\"ng-binding\">Amazon FBA</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44095/\" class=\"ng-binding\">October 2015</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44095/\" class=\"ng-binding\">$10,549.17</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44095/\" class=\"ng-binding\">$242,630.93</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">DIY David, Lifestyle Larry</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">3</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44095/\" class=\"ng-binding\">44095</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44095/",
+            "price": "242630.93",
+            "description": " Niche: Apparel & Accessories Date established: October 2015 Monetization: Amazon FBA Net Profit: $10,549.17",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44644/\" class=\"ng-binding\">Home Improvement</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44644/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-1\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44644/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44644/\" class=\"ng-binding\">Amazon Associates</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44644/\" class=\"ng-binding\">December 2015</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44644/\" class=\"ng-binding\">$8,248.89</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44644/\" class=\"ng-binding\">$239,217.81</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Newbie Norms</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">3</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44644/\" class=\"ng-binding\">44644</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44644/",
+            "price": "239217.81",
+            "description": " Niche: Home Improvement Date established: December 2015 Monetization: Amazon Associates Net Profit: $8,248.89",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44521/\" class=\"ng-binding\">Social Media</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44521/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44521/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44521/\" class=\"ng-binding\">SaaS</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44521/\" class=\"ng-binding\">August 2014</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44521/\" class=\"ng-binding\">$5,929.41</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44521/\" class=\"ng-binding\">$231,820.97</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Portfolio Paul, Flipper Fred</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">4</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44521/\" class=\"ng-binding\">44521</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44521/",
+            "price": "231820.97",
+            "description": " Niche: Social Media Date established: August 2014 Monetization: SaaS Net Profit: $5,929.41",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44223/\" class=\"ng-binding\">Apparel &amp; Accessories</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44223/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44223/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44223/\" class=\"ng-binding\">Dropshipping</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44223/\" class=\"ng-binding\">September 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44223/\" class=\"ng-binding\">$7,719.20</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44223/\" class=\"ng-binding\">$231,576.00</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">DIY David, Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44223/\" class=\"ng-binding\">44223</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44223/",
+            "price": "231576.00",
+            "description": " Niche: Apparel & Accessories Date established: September 2016 Monetization: Dropshipping Net Profit: $7,719.20",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44352/\" class=\"ng-binding\">Healthy &amp; Beauty, Health &amp; Beauty</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44352/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-1\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44352/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44352/\" class=\"ng-binding\">Amazon Associates</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44352/\" class=\"ng-binding\">August 2013</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44352/\" class=\"ng-binding\">$8,269.07</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44352/\" class=\"ng-binding\">$231,533.96</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">DIY David</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">5</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44352/\" class=\"ng-binding\">44352</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44352/",
+            "price": "231533.96",
+            "description": " Niche: Healthy & Beauty, Health & Beauty Date established: August 2013 Monetization: Amazon Associates Net Profit: $8,269.07",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44372/\" class=\"ng-binding\">Apparel &amp; Accessories</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44372/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44372/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44372/\" class=\"ng-binding\">Dropshipping</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44372/\" class=\"ng-binding\">April 2017</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44372/\" class=\"ng-binding\">$10,505.88</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44372/\" class=\"ng-binding\">$220,623.48</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">DIY David, Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">1</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44372/\" class=\"ng-binding\">44372</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44372/",
+            "price": "220623.48",
+            "description": " Niche: Apparel & Accessories Date established: April 2017 Monetization: Dropshipping Net Profit: $10,505.88",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/40776/\" class=\"ng-binding\">Electronic Cigarettes</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/40776/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/40776/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/40776/\" class=\"ng-binding\">Dropshipping</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/40776/\" class=\"ng-binding\">September 2013</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/40776/\" class=\"ng-binding\">$7,279.16</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/40776/\" class=\"ng-binding\">$211,097.96</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">DIY David</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">5</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/40776/\" class=\"ng-binding\">40776</a></td></tr>",
+            "url": "https://empireflippers.com/listing/40776/",
+            "price": "211097.96",
+            "description": " Niche: Electronic Cigarettes Date established: September 2013 Monetization: Dropshipping Net Profit: $7,279.16",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44662/\" class=\"ng-binding\">Home &amp; Garden</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44662/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44662/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44662/\" class=\"ng-binding\">Amazon FBA, Dropshipping, eCommerce</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44662/\" class=\"ng-binding\">August 2015</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44662/\" class=\"ng-binding\">$6,185.86</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44662/\" class=\"ng-binding\">$204,133.38</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Portfolio Paul</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">3</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44662/\" class=\"ng-binding\">44662</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44662/",
+            "price": "204133.38",
+            "description": " Niche: Home & Garden Date established: August 2015 Monetization: Amazon FBA, Dropshipping, eCommerce Net Profit: $6,185.86",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44746/\" class=\"ng-binding\">General</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44746/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44746/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-0\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44746/\" class=\"ng-binding\">Amazon FBA</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44746/\" class=\"ng-binding\">June 2016</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44746/\" class=\"ng-binding\">$7,626.22</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44746/\" class=\"ng-binding\">$190,655.50</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry, Portfolio Paul, Flipper Fred, Strategic Sally</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">2</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44746/\" class=\"ng-binding\">44746</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44746/",
+            "price": "190655.50",
+            "description": " Niche: General Date established: June 2016 Monetization: Amazon FBA Net Profit: $7,626.22",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        },
+        {
+            "descriptionRaw": "<tr ng-repeat=\"listing in marketplace.pagination.getListings()\" class=\"for_sale\"><td title=\"Niche\"><a href=\"/listing/44216/\" class=\"ng-binding\">General</a></td><td class=\"mob-hide\" title=\"PBN\"><a href=\"/listing/44216/\"><span class=\"hidden ng-binding\">0</span><span class=\"mp-data-ico mp-pbn-ico mp-pbn-ico-0\"></span></a></td><td class=\"mob-hide\" title=\"Seller Interview\"><a href=\"/listing/44216/\"><span class=\"hidden ng-binding\">1</span><span class=\"mp-data-ico mp-seller-interview-ico mp-seller-interview-ico-1\"></span></a></td><td title=\"Monetization\"><a href=\"/listing/44216/\" class=\"ng-binding\">Amazon FBA</a></td><td title=\"Date Created\" class=\"tab-hide mob-hide\"><a href=\"/listing/44216/\" class=\"ng-binding\">December 2015</a></td><td title=\"Net Profit\" class=\"financial mob-hide\"><a href=\"/listing/44216/\" class=\"ng-binding\">$8,232.07</a></td><td title=\"Price\" class=\"financial\"><a href=\"/listing/44216/\" class=\"ng-binding\">$189,337.67</a></td><td title=\"Buyer Profiles\" class=\"mob-hide hidden ng-binding\">Lifestyle Larry, Portfolio Paul</td><td title=\"Site Age\" class=\"mob-hide hidden ng-binding\">3</td><td title=\"Listing #\" class=\"mob-hide\"><a href=\"/listing/44216/\" class=\"ng-binding\">44216</a></td></tr>",
+            "url": "https://empireflippers.com/listing/44216/",
+            "price": "189337.67",
+            "description": " Niche: General Date established: December 2015 Monetization: Amazon FBA Net Profit: $8,232.07",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Businesses For Sale",
+            "categoryTags": [
+                "business",
+                "sale"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 17:41:32",
+            "urlSource": "https://empireflippers.com/marketplace/"
+        }
+    ]

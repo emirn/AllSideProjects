@@ -1,0 +1,35 @@
+{
+  "siteUrlToParse": "https://news.ycombinator.com/shownew",
+  "beginStringForHtmlDiv": "<tbody>",
+  "endStringForHtmlDiv": "</tbody>",
+  "occurenceOfBeginString": 2,
+  "occurenceOfEndString": 2,
+  "siteName" : "Y Combinator",
+  "categoryTags" : ["ycombinator"],
+  "contentTags" : ["startup"],
+  "siteUrl" : "https://news.ycombinator.com/shownew",
+  "descriptionRawXPath" : "//tr[@class=\"athing\"]",
+  "skipEmptyItem" : "true", 
+  "debug" : "false",
+  "properties": [
+    {
+      "property": "title",
+      "xpath": "//a[@class=\"storylink\"]/text()",
+      "regex": "",
+      "valuetype": "text"
+    },
+    {
+      "property": "description",
+      "xpath": "//a[@class=\"storylink\"]/text()",
+      "regex": "",
+      "valuetype": "text"
+    },
+    {
+      "property": "url",
+      "xpath": "//a[@class=\"storylink\"]/@href",
+      "regex": "",
+      "valuetype": "attrurl",
+      "insertbefore": "https://news.ycombinator.com/"
+    }
+  ]
+}

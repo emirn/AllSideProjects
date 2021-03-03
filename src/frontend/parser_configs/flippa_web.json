@@ -1,0 +1,79 @@
+{
+  "siteUrlToParse": "https://flippa.com/search?filter[property_type]=website&page[size]=250",
+  "beginStringForHtmlDiv": "<div id=\"app\" class=\"ApplicationRoot\">",
+  "endStringForHtmlDiv": "</div>",
+  "occurenceOfBeginString": 1,
+  "occurenceOfEndString": 1,
+  "siteName" : "Flippa #1 for Buying and Selling Online Businesses",
+  "categoryTags" : ["flippa"],
+  "contentTags" : ["web","$ for sale"],
+  "siteUrl" : "https://flippa.com",
+  "descriptionRawXPath" : "//div[contains(@class, \"Detailed___rowWrapper\") and not(contains(@id, \"ad\"))]",
+  "skipEmptyItem" : "true",
+  "debug" : "false",
+  "properties": [
+    {
+      "property": "title",
+      "xpath": "//div[@class=\"Detailed___propertyName\"]/text()",
+      "regex": "",
+      "valuetype": "text"
+    },
+    {
+      "property": "url",
+      "xpath": "//div[@class=\"Detailed___rowWrapper\"]/a/@href",
+      "regex": "",
+      "valuetype": "attrurl"
+    },
+    {
+      "property": "bid_count",
+      "xpath": "//div[@class=\"Detailed___bidCount\"]/text()",
+      "regex": "",
+      "valuetype": "text",
+      "addToDescription" : "true",
+      "insertbefore": " Bids: "
+    },
+    {
+      "property": "description",
+      "xpath": "//div[@class=\"Detailed___propertyName\"]/text()",
+      "regex": "",
+      "valuetype": "text"
+    },
+    {
+      "property": "price",
+      "xpath": "//div[contains(@class, \"Detailed___price\")]/text()",
+      "regex": "",
+      "valuetype": "text"
+    },
+    {
+      "property": "asset_type",
+      "xpath": "//div[@class=\"Detailed___rowWrapper\"]/a/div[1]/div[3]/text()",
+      "regex": "",
+      "valuetype": "text",
+      "addToDescription" : "true"
+    },
+    {
+      "property": "price_engage",
+      "xpath": "//div[@class=\"Detailed___rowWrapper\"]/a/div[3]/div/text()",
+      "regex": "",
+      "valuetype": "text",
+      "addToDescription" : "true",
+      "insertbefore" : " Engage Price: "
+    },
+    {
+      "property": "time_remain",
+      "xpath": "//div[@class=\"Detailed___rowWrapper\"]/a/div[2]/div[1]/div/span/text()",
+      "regex": "",
+      "valuetype": "text",
+      "addToDescription" : "true",
+      "insertbefore" : " Time Remain: "
+    },
+    {
+      "property": "detailed_category",
+      "xpath": "//div[@class=\"Detailed___rowWrapper\"]/a/div[1]/div[1]/div/text()",
+      "regex": "",
+      "valuetype": "text",
+      "addToDescription" : "true",
+      "insertbefore" : " Detailed Category: "
+    }
+  ]
+}

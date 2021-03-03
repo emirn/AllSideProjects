@@ -1,0 +1,952 @@
+"items": [
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9779315-nuclear-inc-2-nuclear-power-plant-simulator\" class=\"Detailed___linkWrapper Detailed___highlightColor Detailed___highlightBold grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Nuclear inc 2 - nuclear power plant simulator</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">14 days left</span></div></div><div class=\"Detailed___price\">$2,500 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">6 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\"></div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: App Sales, Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $4,323 p/mo</span></div><div class=\"Detailed___title\">Nuclear inc 2 - nuclear power plant simulator</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\"><span class=\"Detailed___buyItNowCurrency\"></span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Nuclear inc 2 is nuclear power plant simulator. I released it 2 months ago and the game get 600'000 downloads on Google Play and ~5000 paid downloads on Itunes.</div></div></div></a></div>",
+            "title": "Nuclear inc 2 - nuclear power plant simulator",
+            "url": "https://flippa.com/9779315-nuclear-inc-2-nuclear-power-plant-simulator",
+            "description": "Nuclear inc 2 - nuclear power plant simulator Bids: 6 BidsAsset Type: Android App Time Remain: 14 days left Detailed Category: Hobbies and Games",
+            "price": "2500",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9819507-bitcoin-mining-simulator\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Bitcoin mining simulator</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">12 days left</span></div></div><div class=\"Detailed___price\">$2,200 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">13 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\"></div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: In-App Sales, Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $14,224 p/mo</span></div><div class=\"Detailed___title\">Bitcoin mining simulator 1 Million+ users, iOs, Android, Total revenue 156000$</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\"><span class=\"Detailed___buyItNowCurrency\"></span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Google Play 1220000+ downloads (58000+ active users) AppStore 71000+ downloads (1000+ active users) Average income per month 14000+$ Total revenue for the year 156000$</div></div></div></a></div>",
+            "title": "Bitcoin mining simulator",
+            "url": "https://flippa.com/9819507-bitcoin-mining-simulator",
+            "description": "Bitcoin mining simulator Bids: 13 BidsAsset Type: Android App Time Remain: 12 days left Detailed Category: Hobbies and Games",
+            "price": "2200",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9814927-golds-reward-app-watch-and-earn\" class=\"Detailed___linkWrapper Detailed___highlightColor Detailed___highlightBold grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Business</div></div><div class=\"Detailed___propertyName\">Golds Reward App - watch and earn</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">5 days left</span></div></div><div class=\"Detailed___price Detailed___reserveMet\">$1,600 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">69 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $2,600</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $2,954 p/mo</span></div><div class=\"Detailed___title\">premium app make 3500/month , and total revemue 18000$ from lunch</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $2,600 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">premium app belong to one of the best category to earn money , the app currently generate 3500$ per month , and earned 18000$ as total revenue ...</div></div></div></a></div>",
+            "title": "Golds Reward App - watch and earn",
+            "url": "https://flippa.com/9814927-golds-reward-app-watch-and-earn",
+            "description": "Golds Reward App - watch and earn Bids: 69 BidsAsset Type: Android App Engage Price: Buy It Now: $2,600 Time Remain: 5 days left Detailed Category: Business",
+            "price": "1600",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9819455-rough-truck-simulator-2\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Rough Truck Simulator 2</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">6 days left</span></div></div><div class=\"Detailed___price\">$10,900 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $16,900</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: In-App Sales, Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $777 p/mo</span></div><div class=\"Detailed___title\">One of the best truck simulation in the google play store</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $16,900 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">My game has great rating from users. And my game has great graphics, great controls and medial traffic in market.</div></div></div></a></div>",
+            "title": "Rough Truck Simulator 2",
+            "url": "https://flippa.com/9819455-rough-truck-simulator-2",
+            "description": "Rough Truck Simulator 2Asset Type: Android App Engage Price: Buy It Now: $16,900 Time Remain: 6 days left Detailed Category: Hobbies and Games",
+            "price": "10900",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9814972-flagz-quiz\" class=\"Detailed___linkWrapper Detailed___highlightColor Detailed___highlightBold grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Flagz Quiz</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">5 days left</span></div></div><div class=\"Detailed___price Detailed___reserveMet\">$605 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">47 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $1,500</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $656 p/mo</span></div><div class=\"Detailed___title\">+500 downloads , +450$ per monthe , + 2000$ total revenue</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $1,500 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Flagz Game is one of the best trivia game , then users love this game , and the app is generate currently more than 460$ monthly , and the total revenue till now more than 2000$</div></div></div></a></div>",
+            "title": "Flagz Quiz",
+            "url": "https://flippa.com/9814972-flagz-quiz",
+            "description": "Flagz Quiz Bids: 47 BidsAsset Type: Android App Engage Price: Buy It Now: $1,500 Time Remain: 5 days left Detailed Category: Hobbies and Games",
+            "price": "605",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9814958-advanced-call-blocker-manage-your-calls\" class=\"Detailed___linkWrapper Detailed___highlightColor Detailed___highlightBold grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Business</div></div><div class=\"Detailed___propertyName\">Advanced Call Blocker - Manage your calls</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">5 days left</span></div></div><div class=\"Detailed___price Detailed___reserveMet\">$550 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">68 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $1,500</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $559 p/mo</span></div><div class=\"Detailed___title\">+600$ montky revenue , total income 2750$ total revenue</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $1,500 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Premium Call blocker , The users love it , it is bug free , and generates currently around 650 $ monthly , it is designed to maximize ad monetization , total revenue till now around 2750$</div></div></div></a></div>",
+            "title": "Advanced Call Blocker - Manage your calls",
+            "url": "https://flippa.com/9814958-advanced-call-blocker-manage-your-calls",
+            "description": "Advanced Call Blocker - Manage your calls Bids: 68 BidsAsset Type: Android App Engage Price: Buy It Now: $1,500 Time Remain: 5 days left Detailed Category: Business",
+            "price": "550",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9805786-cheap-sky-flight-find-low-budget-travel\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Travel</div></div><div class=\"Detailed___propertyName\">Cheap Sky Flight - Find Low Budget Travel</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">12 days left</span></div></div><div class=\"Detailed___price Detailed___reserveMet\">$805 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">23 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $2,500</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $392 p/mo</span></div><div class=\"Detailed___title\">300$ profit/month, OTW 5K Download</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $2,500 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">This app is perfect for those of you who want to have app tickets, on one side the app tikcets have a very high user retention rate, and minimal to uninstall, this app is already about 1 year old, and</div></div></div></a></div>",
+            "title": "Cheap Sky Flight - Find Low Budget Travel",
+            "url": "https://flippa.com/9805786-cheap-sky-flight-find-low-budget-travel",
+            "description": "Cheap Sky Flight - Find Low Budget Travel Bids: 23 BidsAsset Type: Android App Engage Price: Buy It Now: $2,500 Time Remain: 12 days left Detailed Category: Travel",
+            "price": "805",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9819574-magical-ball\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Magical Ball</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">12 days left</span></div></div><div class=\"Detailed___price\">$1,300 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">5 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\"></div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: In-App Sales, Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $359 p/mo</span></div><div class=\"Detailed___title\">Magic Ball, 5 Million+ downloads, 48000+ active users, 350$ per month</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\"><span class=\"Detailed___buyItNowCurrency\"></span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Google Play 5300000+ downloads (48000+ active users). Average income per month 350+$. Total revenue for the last year 4200$. 1000+ new users per day.</div></div></div></a></div>",
+            "title": "Magical Ball",
+            "url": "https://flippa.com/9819574-magical-ball",
+            "description": "Magical Ball Bids: 5 BidsAsset Type: Android App Time Remain: 12 days left Detailed Category: Hobbies and Games",
+            "price": "1300",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9811306-offline-english-farsi-dictionary\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Education</div></div><div class=\"Detailed___propertyName\">Offline English Farsi Dictionary</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">10 days left</span></div></div><div class=\"Detailed___price\">$3,000 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $5,200</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: App Sales, Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $286 p/mo</span></div><div class=\"Detailed___title\">16 High quality bilingual offline dictionaries + Databases</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $5,200 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">16 Android dictionaries, generating steady passive revenue. 30 apps in total! Our company, movin'App, is well known for its high quality offline dictionaries.</div></div></div></a></div>",
+            "title": "Offline English Farsi Dictionary",
+            "url": "https://flippa.com/9811306-offline-english-farsi-dictionary",
+            "description": "Offline English Farsi DictionaryAsset Type: Android App Engage Price: Buy It Now: $5,200 Time Remain: 10 days left Detailed Category: Education",
+            "price": "3000",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9819850-egg-clicker\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Egg: clicker</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">12 days left</span></div></div><div class=\"Detailed___price\">$100 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">11 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\"></div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $277 p/mo</span></div><div class=\"Detailed___title\">Egg clicker, 1.95+ Million download, +5400 new users \\ month, 280$ \\ day</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\"><span class=\"Detailed___buyItNowCurrency\"></span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Google Play 1950000+ downloads (6800+ active users) AppStore 17000+ downloads (150+ active users) Average income per month 280+$</div></div></div></a></div>",
+            "title": "Egg: clicker",
+            "url": "https://flippa.com/9819850-egg-clicker",
+            "description": "Egg: clicker Bids: 11 BidsAsset Type: Android App Time Remain: 12 days left Detailed Category: Hobbies and Games",
+            "price": "100",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9807792-cloneapps-messenger\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Entertainment</div></div><div class=\"Detailed___propertyName\">Cloneapps Messenger</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"RelativeTime___urgent\">a day left</span></div></div><div class=\"Detailed___price\">$200 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">3 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $2,000</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $233 p/mo</span></div><div class=\"Detailed___title\">App messenger app 50.000+ Instal</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $2,000 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">This app has been proven to make a lot of money. But because disable admob, then I sell. But you can easily make money using starapp or charboost. I will help to change your ad id</div></div></div></a></div>",
+            "title": "Cloneapps Messenger",
+            "url": "https://flippa.com/9807792-cloneapps-messenger",
+            "description": "Cloneapps Messenger Bids: 3 BidsAsset Type: Android App Engage Price: Buy It Now: $2,000 Time Remain: a day left Detailed Category: Entertainment",
+            "price": "200",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9808849-the-real-weather\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">General Knowledge</div></div><div class=\"Detailed___propertyName\">The Real Weather</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"RelativeTime___urgent\">12 hours left</span></div></div><div class=\"Detailed___price\">$39,000 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $79,000</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: In-App Sales, Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $230 p/mo</span></div><div class=\"Detailed___title\">Practical and elegant Weather App</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $79,000 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Practical and elegant Weather App with background images reflecting weather conditions at about 9 mln locations around the world–available on both Android and iOS. 7-days and 72-hour detailed forecast</div></div></div></a></div>",
+            "title": "The Real Weather",
+            "url": "https://flippa.com/9808849-the-real-weather",
+            "description": "The Real WeatherAsset Type: Android App Engage Price: Buy It Now: $79,000 Time Remain: 12 hours left Detailed Category: General Knowledge",
+            "price": "39000",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9819581-megamind-guess-word\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">MegaMind - Guess word</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">12 days left</span></div></div><div class=\"Detailed___price\">$200 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">4 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\"></div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: In-App Sales, Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $170 p/mo</span></div><div class=\"Detailed___title\">MegaMind, 175000+ downloads, 6000 active users, 75 new users / day, 170$ / month</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\"><span class=\"Detailed___buyItNowCurrency\"></span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Google Play 175000+ downloads (6000+ active users). AppStore 12500+ downloads (250 active users) Average income per month 170+$. 50-150 new users per day.</div></div></div></a></div>",
+            "title": "MegaMind - Guess word",
+            "url": "https://flippa.com/9819581-megamind-guess-word",
+            "description": "MegaMind - Guess word Bids: 4 BidsAsset Type: Android App Time Remain: 12 days left Detailed Category: Hobbies and Games",
+            "price": "200",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9819864-egg-2018-clicker\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Egg 2018: clicker</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">13 days left</span></div></div><div class=\"Detailed___price\">$100 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">4 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\"></div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $97 p/mo</span></div><div class=\"Detailed___title\">Egg 2017 clicker, 950000 downloads, 3200 new users \\ month, 100$ \\ month</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\"><span class=\"Detailed___buyItNowCurrency\"></span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Google Play 950000+ downloads (3500+ active users) AppStore 5000+ downloads (50+ active users) Average income per month 100+$</div></div></div></a></div>",
+            "title": "Egg 2018: clicker",
+            "url": "https://flippa.com/9819864-egg-2018-clicker",
+            "description": "Egg 2018: clicker Bids: 4 BidsAsset Type: Android App Time Remain: 13 days left Detailed Category: Hobbies and Games",
+            "price": "100",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9817403-twitter-video-downloader\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Internet</div></div><div class=\"Detailed___propertyName\">Twitter Video Downloader</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">4 days left</span></div></div><div class=\"Detailed___price\">$3,200 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">24 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $6,500</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $96 p/mo</span></div><div class=\"Detailed___title\">Money making machine, Investment opportunity to generate stable passive income</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $6,500 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Great small investment opportunity. Just buy and start earning from day 1. It is running in auto pilot mode so all revenue is profit.</div></div></div></a></div>",
+            "title": "Twitter Video Downloader",
+            "url": "https://flippa.com/9817403-twitter-video-downloader",
+            "description": "Twitter Video Downloader Bids: 24 BidsAsset Type: Android App Engage Price: Buy It Now: $6,500 Time Remain: 4 days left Detailed Category: Internet",
+            "price": "3200",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9820024-loan-cash-usa-fast-cash-loans\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Business</div></div><div class=\"Detailed___propertyName\">Loan Cash USA - Fast Cash loans!</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">a day left</span></div></div><div class=\"Detailed___price\">$800 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $1,500</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\">Net Profit: $92 p/mo</span></div><div class=\"Detailed___title\">High earning Payday loan affiliate app and website / making $200 a month!</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $1,500 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">This affiliate app and website is a autopilot business. Sit back and watch it grow! Business is earning $200 a month and will continue to earn and grow! It will earn much more soon as it's climbing!</div></div></div></a></div>",
+            "title": "Loan Cash USA - Fast Cash loans!",
+            "url": "https://flippa.com/9820024-loan-cash-usa-fast-cash-loans",
+            "description": "Loan Cash USA - Fast Cash loans!Asset Type: Android App Engage Price: Buy It Now: $1,500 Time Remain: a day left Detailed Category: Business",
+            "price": "800",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9820580-subway-kids-super-rush-run\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">subway kids super rush run</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">2 days left</span></div></div><div class=\"Detailed___price\">$1,490 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $7,450</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: In-App Sales, Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $80 p/mo</span></div><div class=\"Detailed___title\">Best subway runner game ever</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $7,450 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">start your best investment here with best quality game which have 12000+ installs and proofed great revenue in less than 2 months. this game free of errors not like other poor games see details below</div></div></div></a></div>",
+            "title": "subway kids super rush run",
+            "url": "https://flippa.com/9820580-subway-kids-super-rush-run",
+            "description": "subway kids super rush runAsset Type: Android App Engage Price: Buy It Now: $7,450 Time Remain: 2 days left Detailed Category: Hobbies and Games",
+            "price": "1490",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9797391-voice-changer-application\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Lifestyle</div></div><div class=\"Detailed___propertyName\">Voice Changer Application</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">7 days left</span></div></div><div class=\"Detailed___price\">$850 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">2 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $1,500</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $69 p/mo</span></div><div class=\"Detailed___title\">Voice Changer</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $1,500 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">With this application you can record your voice and you can change your voice by applying both fun effects.</div></div></div></a></div>",
+            "title": "Voice Changer Application",
+            "url": "https://flippa.com/9797391-voice-changer-application",
+            "description": "Voice Changer Application Bids: 2 BidsAsset Type: Android App Engage Price: Buy It Now: $1,500 Time Remain: 7 days left Detailed Category: Lifestyle",
+            "price": "850",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9816468-jump-rope-counter-calories\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Sports and Outdoor</div></div><div class=\"Detailed___propertyName\">Jump Rope Counter + Calories</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">4 days left</span></div></div><div class=\"Detailed___price\">$800 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">5 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $4,000</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: In-App Sales, Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $58 p/mo</span></div><div class=\"Detailed___title\">Jump Rope Counter + Calories unique 120$ monthly!</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $4,000 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Jump Rope Counter fitness app include in-app sales and gaining revenue from AdMob, real users with real reviews, over 91,000 downloads and 1,000 daily active users without promotion!</div></div></div></a></div>",
+            "title": "Jump Rope Counter + Calories",
+            "url": "https://flippa.com/9816468-jump-rope-counter-calories",
+            "description": "Jump Rope Counter + Calories Bids: 5 BidsAsset Type: Android App Engage Price: Buy It Now: $4,000 Time Remain: 4 days left Detailed Category: Sports and Outdoor",
+            "price": "800",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9820163-car-wallpapers-uhd\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Entertainment</div></div><div class=\"Detailed___propertyName\">Car Wallpapers - UHD</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">9 days left</span></div></div><div class=\"Detailed___price\">$50 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $2,000</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $46 p/mo</span></div><div class=\"Detailed___title\">Money making machine, Investment opportunity to generate stable passive income</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $2,000 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Great investment opportunity. Just buy and start earning from day 1. Monetize with Admob. No Reserve.. 1339 Total Installs</div></div></div></a></div>",
+            "title": "Car Wallpapers - UHD",
+            "url": "https://flippa.com/9820163-car-wallpapers-uhd",
+            "description": "Car Wallpapers - UHDAsset Type: Android App Engage Price: Buy It Now: $2,000 Time Remain: 9 days left Detailed Category: Entertainment",
+            "price": "50",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9817131-ludo\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Ludo</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">8 days left</span></div></div><div class=\"Detailed___price\">$800 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $2,000</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: In-App Sales, Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $28 p/mo</span></div><div class=\"Detailed___title\"> Online Multiplayer Ludo, Opportunity for App Investors 900+ Download/Month</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $2,000 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Ludo is one of our most successful game, with with over 5K+ downloads in Playstore and iOS. The game is constantly generating revenue. Online Multiplayer without expenses for any server unlimited time</div></div></div></a></div>",
+            "title": "Ludo",
+            "url": "https://flippa.com/9817131-ludo",
+            "description": "LudoAsset Type: Android App Engage Price: Buy It Now: $2,000 Time Remain: 8 days left Detailed Category: Hobbies and Games",
+            "price": "800",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9809124-all-news-in-one-app-newsstand\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Entertainment</div></div><div class=\"Detailed___propertyName\">All news in one app, Newsstand</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">4 days left</span></div></div><div class=\"Detailed___price\">$700 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\"></div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $27 p/mo</span></div><div class=\"Detailed___title\">news entertainment android</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\"><span class=\"Detailed___buyItNowCurrency\"></span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">16 android apps: news, dating, entertainment.</div></div></div></a></div>",
+            "title": "All news in one app, Newsstand",
+            "url": "https://flippa.com/9809124-all-news-in-one-app-newsstand",
+            "description": "All news in one app, NewsstandAsset Type: Android App Time Remain: 4 days left Detailed Category: Entertainment",
+            "price": "700",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9813452-princess-sofia-cleaning-home\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Princess Sofia Cleaning Home</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">4 days left</span></div></div><div class=\"Detailed___price\">$200 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">3 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $3,500</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $19 p/mo</span></div><div class=\"Detailed___title\">Princess Cleaning room game | MONTHLY 50$ REVENUE | OVER 1000$ PROFIT!</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $3,500 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">In this princess cleaning home the game, you must help our princess clean her house and make her look warm and friendly! Get an amazing revenue in the future with buying this app</div></div></div></a></div>",
+            "title": "Princess Sofia Cleaning Home",
+            "url": "https://flippa.com/9813452-princess-sofia-cleaning-home",
+            "description": "Princess Sofia Cleaning Home Bids: 3 BidsAsset Type: Android App Engage Price: Buy It Now: $3,500 Time Remain: 4 days left Detailed Category: Hobbies and Games",
+            "price": "200",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9808333-mini-taxi-simulator-3d\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Mini Taxi Simulator 3D</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"RelativeTime___urgent\">13 hours left</span></div></div><div class=\"Detailed___price\">$50 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $190</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $9 p/mo</span></div><div class=\"Detailed___title\">Mini Taxi Game 100+ Installs</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $190 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">3 Star rating MAIN FEATURES - Adventurous taxi drive on the streets - Addictive gameplay - High quality 3D graphics - User friendly taxi controls - Your driving skills will get improve</div></div></div></a></div>",
+            "title": "Mini Taxi Simulator 3D",
+            "url": "https://flippa.com/9808333-mini-taxi-simulator-3d",
+            "description": "Mini Taxi Simulator 3DAsset Type: Android App Engage Price: Buy It Now: $190 Time Remain: 13 hours left Detailed Category: Hobbies and Games",
+            "price": "50",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9813553-learn-arabic-with-urdu-30-days\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Education</div></div><div class=\"Detailed___propertyName\">Learn Arabic with Urdu (30 Days)</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">21 days left</span></div></div><div class=\"Detailed___price\">$17,000 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $25,000</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: Advertising</span> <span class=\"Detailed___financialsPipe\">|</span> <span class=\"Detailed___profit\">Net Profit: $1 p/mo</span></div><div class=\"Detailed___title\">Learn Arabic in 30 Days</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $25,000 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Learn Arabic with Urdu is the best educational app in Play Store. Every Muslims wants to learn Arabic &amp; must keen off learning that Holy Language. Best app for outsiders who travel in Arab countries.</div></div></div></a></div>",
+            "title": "Learn Arabic with Urdu (30 Days)",
+            "url": "https://flippa.com/9813553-learn-arabic-with-urdu-30-days",
+            "description": "Learn Arabic with Urdu (30 Days)Asset Type: Android App Engage Price: Buy It Now: $25,000 Time Remain: 21 days left Detailed Category: Education",
+            "price": "17000",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9819999-business-tips-for-entrepreneurs\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Business</div></div><div class=\"Detailed___propertyName\">Business Tips for Entrepreneurs</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">a day left</span></div></div><div class=\"Detailed___price\">$200 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $500</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">Business tips for entrepreneurs is a high niche app with huge potential!</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $500 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Own a business app in a high niche catagory! App gives business's tips and ideas for entrepreneurs. Makes money using admob. App is brand new and has not earned much money but it is on its way!</div></div></div></a></div>",
+            "title": "Business Tips for Entrepreneurs",
+            "url": "https://flippa.com/9819999-business-tips-for-entrepreneurs",
+            "description": "Business Tips for EntrepreneursAsset Type: Android App Engage Price: Buy It Now: $500 Time Remain: a day left Detailed Category: Business",
+            "price": "200",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9819293-money-drop\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Money Drop</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">22 days left</span></div></div><div class=\"Detailed___price\">$50 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $230</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">Money Drop 1k - Month AMAZING POTENTIAL</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $230 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">APP AGE ONE MONTH Money Drop Is A fun game This Game Received 1k Downloads in one Month. APP AGE ONE MONTH</div></div></div></a></div>",
+            "title": "Money Drop",
+            "url": "https://flippa.com/9819293-money-drop",
+            "description": "Money DropAsset Type: Android App Engage Price: Buy It Now: $230 Time Remain: 22 days left Detailed Category: Hobbies and Games",
+            "price": "50",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9808983-android-app\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Android App</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"RelativeTime___urgent\">15 hours left</span></div></div><div class=\"Detailed___price Detailed___reserveMet\">$20 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">1 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\"></div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: Advertising</span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">3D American Soccer</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\"><span class=\"Detailed___buyItNowCurrency\"></span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">If you like football, then you'll love this app, new challenging game with the posibillity to earn a lot $$$$</div></div></div></a></div>",
+            "title": "Android App",
+            "url": "https://flippa.com/9808983-android-app",
+            "description": "Android App Bids: 1 BidsAsset Type: Android App Time Remain: 15 hours left Detailed Category: Hobbies and Games",
+            "price": "20",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9821631-preflight-flight-booking-app\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Travel</div></div><div class=\"Detailed___propertyName\">preflight - flight booking app</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"RelativeTime___urgent\">a day left</span></div></div><div class=\"Detailed___price\">$1 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $150</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">Travel App - $300 / Day Potential | 100% Automated | Professionally Designed</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $150 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Earn 9k/month huge income potential from Admob &amp; Travel Affiliate (Bigger income). Long term money making apps Newbie's Friendly Completely Automated Traveling App Huge income Potential instant.</div></div></div></a></div>",
+            "title": "preflight - flight booking app",
+            "url": "https://flippa.com/9821631-preflight-flight-booking-app",
+            "description": "preflight - flight booking appAsset Type: Android App Engage Price: Buy It Now: $150 Time Remain: a day left Detailed Category: Travel",
+            "price": "1",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9821508-impossible-stunt-race\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Impossible Stunt Race</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">3 days left</span></div></div><div class=\"Detailed___price\">$1 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $250</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">Best 3D Stunt Racing Game in Impossible Stunt Race, Addictive racing game</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $250 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Huge Potential - HOT 3D STUNT RACING CAR Game with Admob! Perfect for anyone looking to make extra cash.. This Game is going to be a sure hit! Don't pass this up!</div></div></div></a></div>",
+            "title": "Impossible Stunt Race",
+            "url": "https://flippa.com/9821508-impossible-stunt-race",
+            "description": "Impossible Stunt RaceAsset Type: Android App Engage Price: Buy It Now: $250 Time Remain: 3 days left Detailed Category: Hobbies and Games",
+            "price": "1",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9819722-crypto-tracker-pro\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Business</div></div><div class=\"Detailed___propertyName\">Crypto Tracker Pro</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">14 days left</span></div></div><div class=\"Detailed___price\">$50 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $600</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: Advertising</span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">*NO EXTRA RESERVE | Newly Released Huge Potential Crypto Tracker App</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $600 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Highly Ranked on Top Keywords (See Attachments for Video Proofs) 1) Crypto Tracker - Keyword 2) Coin Tracker - Keyword 3) Electroneum - Keyword</div></div></div></a></div>",
+            "title": "Crypto Tracker Pro",
+            "url": "https://flippa.com/9819722-crypto-tracker-pro",
+            "description": "Crypto Tracker ProAsset Type: Android App Engage Price: Buy It Now: $600 Time Remain: 14 days left Detailed Category: Business",
+            "price": "50",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9821454-adventure-car-transform-racing-3d\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Adventure Car Transform Racing 3D</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">9 days left</span></div></div><div class=\"Detailed___price\">$10 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $1,500</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">High quality 3D racing game</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $1,500 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">own a cool game with amazing quality graphics and perfect gameplay this is a really promising game to make huge revenue and good user retention with admob ads &amp; 16 in-app purchase</div></div></div></a></div>",
+            "title": "Adventure Car Transform Racing 3D",
+            "url": "https://flippa.com/9821454-adventure-car-transform-racing-3d",
+            "description": "Adventure Car Transform Racing 3DAsset Type: Android App Engage Price: Buy It Now: $1,500 Time Remain: 9 days left Detailed Category: Hobbies and Games",
+            "price": "10",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9820790-sweet-donut-match-3\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Sweet Donut Match 3</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">4 days left</span></div></div><div class=\"Detailed___price\">$1 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $80</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">250 + level, good graphics, Integrated admob ads. BIN only $80</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $80 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">250 + level, good graphics, Integrated admob ads. BIN only $80 SOURCE CODE INCLUDE</div></div></div></a></div>",
+            "title": "Sweet Donut Match 3",
+            "url": "https://flippa.com/9820790-sweet-donut-match-3",
+            "description": "Sweet Donut Match 3Asset Type: Android App Engage Price: Buy It Now: $80 Time Remain: 4 days left Detailed Category: Hobbies and Games",
+            "price": "1",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9821397-the-legendary-ninja-runner\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">The Legendary Ninja Runner</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">3 days left</span></div></div><div class=\"Detailed___price\">$1 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $299</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">Highly Addictive The Legendary Ninja Runner Game - Source Code - AdMob</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $299 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">The Legendary Ninja Runner is a fun, addictive, game that will keep anyone entertained for hours. This auction includes Google AdMob integration with it's updated source code.</div></div></div></a></div>",
+            "title": "The Legendary Ninja Runner",
+            "url": "https://flippa.com/9821397-the-legendary-ninja-runner",
+            "description": "The Legendary Ninja RunnerAsset Type: Android App Engage Price: Buy It Now: $299 Time Remain: 3 days left Detailed Category: Hobbies and Games",
+            "price": "1",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9821312-travelmate-flight-and-hotel-deals\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Travel</div></div><div class=\"Detailed___propertyName\">TravelMate - Flight and Hotel Deals</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">5 days left</span></div></div><div class=\"Detailed___price\">$1 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $349</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">Great investment opportunity for long term passive income.</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $349 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Rich Feature and Long term money maker. If you want to BIN with SPECIAL PRICE, send me a message.</div></div></div></a></div>",
+            "title": "TravelMate - Flight and Hotel Deals",
+            "url": "https://flippa.com/9821312-travelmate-flight-and-hotel-deals",
+            "description": "TravelMate - Flight and Hotel DealsAsset Type: Android App Engage Price: Buy It Now: $349 Time Remain: 5 days left Detailed Category: Travel",
+            "price": "1",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9821335-safe-chat\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Internet</div></div><div class=\"Detailed___propertyName\">Safe Chat</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">3 days left</span></div></div><div class=\"Detailed___price\">$10 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $115</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">Profitable \"Safe Chat\" android app with HUGE $$$ potential</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $115 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Safe Chat is a chat app that allows you to send messages, photos, videos and files to your contacts! Very easy to use with an user-friendly interface and it has all the capabilities for a safe chat.</div></div></div></a></div>",
+            "title": "Safe Chat",
+            "url": "https://flippa.com/9821335-safe-chat",
+            "description": "Safe ChatAsset Type: Android App Engage Price: Buy It Now: $115 Time Remain: 3 days left Detailed Category: Internet",
+            "price": "10",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9821319-8-ball-zone\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">8 Ball Zone</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">6 days left</span></div></div><div class=\"Detailed___price\">$85 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">3 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $799</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">Huge Potential $100 - $300/Monthly. New Brand Perfect App</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $799 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">[INCLUDE SOURCE CODE] Buyers with BIN will get BONUS Graphic template + SC + PSD Files + Full Support.</div></div></div></a></div>",
+            "title": "8 Ball Zone",
+            "url": "https://flippa.com/9821319-8-ball-zone",
+            "description": "8 Ball Zone Bids: 3 BidsAsset Type: Android App Engage Price: Buy It Now: $799 Time Remain: 6 days left Detailed Category: Hobbies and Games",
+            "price": "85",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9821304-fly-and-escape\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Fly and Escape</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">a day left</span></div></div><div class=\"Detailed___price Detailed___reserveMet\">$25 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">5 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $150</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: Advertising</span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">No reserve,buy 2 awesome arcade games in low price</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $150 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">First game- https://play.google.com/store/apps/details?id=com.Wicked_Line2.Wicked_Line2 second game- https://play.google.com/store/apps/details?id=com.Tank_Shooter2.Tank_Shooter2</div></div></div></a></div>",
+            "title": "Fly and Escape",
+            "url": "https://flippa.com/9821304-fly-and-escape",
+            "description": "Fly and Escape Bids: 5 BidsAsset Type: Android App Engage Price: Buy It Now: $150 Time Remain: a day left Detailed Category: Hobbies and Games",
+            "price": "25",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9821001-xpress-travel\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Travel</div></div><div class=\"Detailed___propertyName\">XPress Travel</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">14 days left</span></div></div><div class=\"Detailed___price\">$25 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $250</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">Highly potential passive income from mobile apps, no coding experience needed</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $250 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Nice design, perfect function and suite for you as developer. With an attractive look, this app is very easy to earn revenue.</div></div></div></a></div>",
+            "title": "XPress Travel",
+            "url": "https://flippa.com/9821001-xpress-travel",
+            "description": "XPress TravelAsset Type: Android App Engage Price: Buy It Now: $250 Time Remain: 14 days left Detailed Category: Travel",
+            "price": "25",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9821042-spin-ball-vortex-a-thrilling-free-spin-ball-game\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Spin Ball Vortex – A Thrilling Free Spin Ball Game</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">3 days left</span></div></div><div class=\"Detailed___price\">$199 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">1 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $2,999</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">Make Worth $1000/mo - Quick Auction - Made till today of this month $226</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $2,999 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Premium graphics and animations ,Professionally Endless Gameplay with shop Market value of the app is $4000+, Monetized with AdMob ads ( Banner, Interstitial) # ASO Done, # #1500+ Organic Dwnlds,</div></div></div></a></div>",
+            "title": "Spin Ball Vortex – A Thrilling Free Spin Ball Game",
+            "url": "https://flippa.com/9821042-spin-ball-vortex-a-thrilling-free-spin-ball-game",
+            "description": "Spin Ball Vortex – A Thrilling Free Spin Ball Game Bids: 1 BidsAsset Type: Android App Engage Price: Buy It Now: $2,999 Time Remain: 3 days left Detailed Category: Hobbies and Games",
+            "price": "199",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9821032-alien-attack\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Alien Attack</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">6 days left</span></div></div><div class=\"Detailed___price\">$5 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">1 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $99</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">Alien Attack - Addicted Game with Unity source code Ready to make BIG Money</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $99 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">I will change the admob codes to yours and transfer to your google play Developer account with the sale</div></div></div></a></div>",
+            "title": "Alien Attack",
+            "url": "https://flippa.com/9821032-alien-attack",
+            "description": "Alien Attack Bids: 1 BidsAsset Type: Android App Engage Price: Buy It Now: $99 Time Remain: 6 days left Detailed Category: Hobbies and Games",
+            "price": "5",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9820980-super-subway-train-surf-3d\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Super Subway Train : Surf 3D</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">2 days left</span></div></div><div class=\"Detailed___price\">$100 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">2 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $1,500</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\">Monetization: Advertising</span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">Big app, \"last 15 days install 7000+\", \"last week 7 days earning $23.38\"</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $1,500 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Big app, \"last 15 days install 7000+\", \"last week 7 days earning $23.38\"</div></div></div></a></div>",
+            "title": "Super Subway Train : Surf 3D",
+            "url": "https://flippa.com/9820980-super-subway-train-surf-3d",
+            "description": "Super Subway Train : Surf 3D Bids: 2 BidsAsset Type: Android App Engage Price: Buy It Now: $1,500 Time Remain: 2 days left Detailed Category: Hobbies and Games",
+            "price": "100",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9820892-motocross-ninja\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Motocross Ninja</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">3 days left</span></div></div><div class=\"Detailed___price\">$5 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $100</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">Android Studio Games Project - Make money with AdMob + Free Source Code</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $100 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Easy for earning with Admob. Rich feature and long term money maker. Low reserve! If you want to BIN with special price, send me a message.</div></div></div></a></div>",
+            "title": "Motocross Ninja",
+            "url": "https://flippa.com/9820892-motocross-ninja",
+            "description": "Motocross NinjaAsset Type: Android App Engage Price: Buy It Now: $100 Time Remain: 3 days left Detailed Category: Hobbies and Games",
+            "price": "5",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9820887-funny-bird-flying\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Funny Bird Flying</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">3 days left</span></div></div><div class=\"Detailed___price\">$5 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">1 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $100</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">Great investment opportunity for long term passive income with Unity Project</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $100 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Unity Games Project + Sourcecode + Transfer app. Easy for earning with Admob. Rich feature and long term money maker. Low reserve! If you want to BIN with special price, send me a message.</div></div></div></a></div>",
+            "title": "Funny Bird Flying",
+            "url": "https://flippa.com/9820887-funny-bird-flying",
+            "description": "Funny Bird Flying Bids: 1 BidsAsset Type: Android App Engage Price: Buy It Now: $100 Time Remain: 3 days left Detailed Category: Hobbies and Games",
+            "price": "5",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9820828-pirate-island-adventure\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Pirate Island Adventure</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"RelativeTime___urgent\">2 hours left</span></div></div><div class=\"Detailed___price\">$5 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">2 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\"></div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">FAST - Highly Addictive Endless Runner Jetpack Game - Source Code - AdMob</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\"><span class=\"Detailed___buyItNowCurrency\"></span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Pirate Island Adventure is a fun, addictive, android game that will keep anyone entertained. This auction includes Google AdMob integration with it's updated source code.</div></div></div></a></div>",
+            "title": "Pirate Island Adventure",
+            "url": "https://flippa.com/9820828-pirate-island-adventure",
+            "description": "Pirate Island Adventure Bids: 2 BidsAsset Type: Android App Time Remain: 2 hours left Detailed Category: Hobbies and Games",
+            "price": "5",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9820829-piano-tiles-music\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Entertainment</div></div><div class=\"Detailed___propertyName\">Piano Tiles - Music</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">2 days left</span></div></div><div class=\"Detailed___price\">$5 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">1 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $300</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">One of the BEST Piano Lesson Games at Play Store, BIG Potential</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $300 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">Piano Tiles - Music is our game that has a very good prospect, I'm sure this game will lead you to success and you have nothing to lose to buy this game.</div></div></div></a></div>",
+            "title": "Piano Tiles - Music",
+            "url": "https://flippa.com/9820829-piano-tiles-music",
+            "description": "Piano Tiles - Music Bids: 1 BidsAsset Type: Android App Engage Price: Buy It Now: $300 Time Remain: 2 days left Detailed Category: Entertainment",
+            "price": "5",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9820822-climber-boy\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Climber Boy</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">2 days left</span></div></div><div class=\"Detailed___price\">$1 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\"></div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $150</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\"> FAST AUCTION - Funny game - Source Code - AdMob</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $150 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">BIN $150 you'll get the app also include game source code This auction includes Google AdMob integration</div></div></div></a></div>",
+            "title": "Climber Boy",
+            "url": "https://flippa.com/9820822-climber-boy",
+            "description": "Climber BoyAsset Type: Android App Engage Price: Buy It Now: $150 Time Remain: 2 days left Detailed Category: Hobbies and Games",
+            "price": "1",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9820682-convert-anything\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">General Knowledge</div></div><div class=\"Detailed___propertyName\">Convert Anything</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">2 days left</span></div></div><div class=\"Detailed___price\">$7 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">1 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $69</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">Amazing Android App \"Convert Anything\" very useful and cheap</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $69 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">This app provides you with an opportunity to quickly and efficiently convert cpretty much anything you would ever want to convert. App is very easy and quick in usage. Doesn't require a lot of memory</div></div></div></a></div>",
+            "title": "Convert Anything",
+            "url": "https://flippa.com/9820682-convert-anything",
+            "description": "Convert Anything Bids: 1 BidsAsset Type: Android App Engage Price: Buy It Now: $69 Time Remain: 2 days left Detailed Category: General Knowledge",
+            "price": "7",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9820663-basketball-bounce\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">BasketBall Bounce</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">2 days left</span></div></div><div class=\"Detailed___price Detailed___reserveMet\">$1 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">1 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $69</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">Android Game - ORIGINAL, Game Center, MAKE MONEY WITH Admob ADS Or Chartboost</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $69 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">* Play for all ages Free game, no purchase required. * Music and sound effects * User friendly interface</div></div></div></a></div>",
+            "title": "BasketBall Bounce",
+            "url": "https://flippa.com/9820663-basketball-bounce",
+            "description": "BasketBall Bounce Bids: 1 BidsAsset Type: Android App Engage Price: Buy It Now: $69 Time Remain: 2 days left Detailed Category: Hobbies and Games",
+            "price": "1",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        },
+        {
+            "descriptionRaw": "<div class=\"Detailed___rowWrapper\"><a href=\"https://flippa.com/9820622-plane-beach-escape\" class=\"Detailed___linkWrapper grid grid--bleed\"><div class=\"grid__col-8\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___category\">Hobbies and Games</div></div><div class=\"Detailed___propertyName\">Plane Beach Escape!</div><div>Asset Type: Android App</div></div><div class=\"grid__col-4\"><div class=\"Detailed___time\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><span class=\"\">2 days left</span></div></div><div class=\"Detailed___price Detailed___reserveMet\">$11 <span class=\"Detailed___priceCurrency\">USD</span></div><div class=\"Detailed___bidCount\">3 Bids</div></div><div class=\"grid__col-12\"><div class=\"break-point break-point--show-on-base break-point--show-on-small\">Buy It Now: $59</div></div><hr class=\"horizontal-rule\"><div class=\"grid__col-12\"><div class=\"grid\"><div class=\"grid__col-12 grid__col-md-9\"><div><span class=\"Detailed___monetization\"></span><span class=\"Detailed___financialsPipe\"></span><span class=\"Detailed___profit\"></span></div><div class=\"Detailed___title\">Android Game - ORIGINAL, Game Center, MAKE MONEY WITH Admob ADS Or Chartboost</div></div><div class=\"grid__col-12 grid__col-md-3\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___buyItNow\">Buy It Now: $59 <span class=\"Detailed___buyItNowCurrency\">USD</span></div></div></div></div></div><div class=\"grid__col-10\"><div class=\"break-point break-point--show-on-medium break-point--show-on-large break-point--show-on-extra-large\"><div class=\"Detailed___summary\">High quality original Android game with addictive gameplay &amp; simple controls. Check below for all the details!</div></div></div></a></div>",
+            "title": "Plane Beach Escape!",
+            "url": "https://flippa.com/9820622-plane-beach-escape",
+            "description": "Plane Beach Escape! Bids: 3 BidsAsset Type: Android App Engage Price: Buy It Now: $59 Time Remain: 2 days left Detailed Category: Hobbies and Games",
+            "price": "11",
+            "siteUrl": "https://flippa.com",
+            "siteName": "Flippa #1 for Buying and Selling Online Businesses",
+            "categoryTags": [
+                "android",
+                "business",
+                "sale"
+            ],
+            "contentTags": [
+                ""
+            ],
+            "dateCreated": "2018-6-25 17:48:52",
+            "urlSource": "https://flippa.com/search?filter[property_type]=android_app&page[size]=250"
+        }
+    ]

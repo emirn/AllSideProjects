@@ -1,0 +1,352 @@
+"items": [
+        {
+            "descriptionRaw": "<tr class=\"odd views-row-first\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-hot topic-icon-node-type-forum\">Hot topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/thornbridge-saga-a-metroidvania\" title=\"Thornbridge Castle is under attack!\"><span class=\"forum-topic-title\">Thornbridge Saga - A metroidvania.</span></a><br> by <a href=\"/users/eylvisaker\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/eylvisaker\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">eylvisaker</a> » Tue, 2017-08-22 19:59</td><td class=\"views-field views-field-comment-count\"> 46<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/eylvisaker\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/eylvisaker\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">eylvisaker</a><br>Mon, 2018-06-25 00:25</td></tr>",
+            "title": "Thornbridge Castle is under attack!",
+            "url": "https://opengameart.org/forumtopic/thornbridge-saga-a-metroidvania",
+            "description": "Thornbridge Saga - A metroidvania.",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"even\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-hot topic-icon-node-type-forum\">Hot topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/springs-adventure-doggo\" title=\"Just thought I'd like to share a little project with you which I've been working on for little over a month or thereabouts, and which uses many assets from this site! (most of them were CC0)\"><span class=\"forum-topic-title\">Spring's Adventure Doggo!</span></a><br> by <a href=\"/users/spring\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/spring\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">Spring</a> » Thu, 2018-05-31 22:38</td><td class=\"views-field views-field-comment-count\"> 28<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/spring\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/spring\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">Spring</a><br>Thu, 2018-06-21 13:03</td></tr>",
+            "title": "Just thought I'd like to share a little project with you which I've been working on for little over a month or thereabouts, and which uses many assets from this site! (most of them were CC0)",
+            "url": "https://opengameart.org/forumtopic/springs-adventure-doggo",
+            "description": "Spring's Adventure Doggo!",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"odd\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/isa-insane-space-arena\" title=\"Hi all!\"><span class=\"forum-topic-title\">ISA - Insane Space Arena</span></a><br> by <a href=\"/users/r4net\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/r4net\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">R4Net</a> » Tue, 2018-06-19 09:21</td><td class=\"views-field views-field-comment-count\"> 0<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/r4net\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/r4net\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">R4Net</a><br>Tue, 2018-06-19 09:21</td></tr>",
+            "title": "Hi all!",
+            "url": "https://opengameart.org/forumtopic/isa-insane-space-arena",
+            "description": "ISA - Insane Space Arena",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"even\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/boundworlds-the-patchwork-universe-project-trailer-and-gameplay-videos-added\" title=\"Hey everyone!\"><span class=\"forum-topic-title\">BoundWorlds - The Patchwork Universe Project (Trailer and gameplay videos added)</span></a><br> by <a href=\"/users/indigofenix\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/indigofenix\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">IndigoFenix</a> » Sat, 2017-12-09 14:39</td><td class=\"views-field views-field-comment-count\"> 7<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/indigofenix\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/indigofenix\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">IndigoFenix</a><br>Thu, 2018-06-07 00:47</td></tr>",
+            "title": "Hey everyone!",
+            "url": "https://opengameart.org/forumtopic/boundworlds-the-patchwork-universe-project-trailer-and-gameplay-videos-added",
+            "description": "BoundWorlds - The Patchwork Universe Project (Trailer and gameplay videos added)",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"odd\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/vanquished-2d-platform-game\" title=\"Hey guys,There is so much art and music on this site. Would of not be possible to make my game without it.I made a mobile game using Unity , my first 2d game.\"><span class=\"forum-topic-title\">Vanquished 2D platform game</span></a><br> by <a href=\"/users/xrob\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/xrob\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">xRob</a> » Fri, 2018-06-01 20:26</td><td class=\"views-field views-field-comment-count\"> 2<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/xrob\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/xrob\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">xRob</a><br>Mon, 2018-06-04 17:24</td></tr>",
+            "title": "Hey guys,There is so much art and music on this site. Would of not be possible to make my game without it.I made a mobile game using Unity , my first 2d game.",
+            "url": "https://opengameart.org/forumtopic/vanquished-2d-platform-game",
+            "description": "Vanquished 2D platform game",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"even\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/action-rpg-hack-and-slash-heroes-of-ages-past\" title=\"Here is a sneak peek into my game. It's an action rpg, mostly inspired by diablo 2, but with snes graphics (most of it anyway). It's a one-man project that I really enjoy doing in my free time.\"><span class=\"forum-topic-title\">Action rpg / hack and slash: heroes of ages past</span></a><br> by <a href=\"/users/carnageddon\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/carnageddon\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">carnageddon</a> » Fri, 2018-06-01 13:04</td><td class=\"views-field views-field-comment-count\"> 8<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/carnageddon\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/carnageddon\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">carnageddon</a><br>Mon, 2018-06-04 08:16</td></tr>",
+            "title": "Here is a sneak peek into my game. It's an action rpg, mostly inspired by diablo 2, but with snes graphics (most of it anyway). It's a one-man project that I really enjoy doing in my free time.",
+            "url": "https://opengameart.org/forumtopic/action-rpg-hack-and-slash-heroes-of-ages-past",
+            "description": "Action rpg / hack and slash: heroes of ages past",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"odd\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/senlin-2d-crpg-game\" title=\"Hi,For about a year I working on free and open-source 2D cRPG game.For more info check game site.\"><span class=\"forum-topic-title\">Senlin - 2D cRPG game</span></a><br> by <a href=\"/users/isangeles\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/isangeles\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">Isangeles</a> » Sat, 2018-05-26 08:03</td><td class=\"views-field views-field-comment-count\"> 0<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/isangeles\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/isangeles\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">Isangeles</a><br>Sun, 2018-06-03 11:26</td></tr>",
+            "title": "Hi,For about a year I working on free and open-source 2D cRPG game.For more info check game site.",
+            "url": "https://opengameart.org/forumtopic/senlin-2d-crpg-game",
+            "description": "Senlin - 2D cRPG game",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"even\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/playerkillersexchange\" title=\"\"><span class=\"forum-topic-title\">PLAYERKILLERS.EXCHANGE</span></a><br> by <a href=\"/users/provolone\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/provolone\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">provolone</a> » Wed, 2018-01-31 01:22</td><td class=\"views-field views-field-comment-count\"> 3<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/playerkillersexchange\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/playerkillersexchange\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">Player_Killers_...</a><br>Tue, 2018-05-29 08:25</td></tr>",
+            "title": "",
+            "url": "https://opengameart.org/forumtopic/playerkillersexchange",
+            "description": "PLAYERKILLERS.EXCHANGE",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"odd\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/keeper-of-the-cards-a-trading-card-game-where-you-can-make-your-own-cards\" title=\"This isn't a video game, and that makes it somewhat unusual for here. But I am using some stuff from OGA, so it's not irrelevant. :)\"><span class=\"forum-topic-title\">Keeper of the Cards - A trading card game where you can make your own cards</span></a><br> by <a href=\"/users/onpon4\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/onpon4\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">onpon4</a> » Sun, 2018-05-27 01:03</td><td class=\"views-field views-field-comment-count\"> 0<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/onpon4\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/onpon4\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">onpon4</a><br>Sun, 2018-05-27 01:03</td></tr>",
+            "title": "This isn't a video game, and that makes it somewhat unusual for here. But I am using some stuff from OGA, so it's not irrelevant. :)",
+            "url": "https://opengameart.org/forumtopic/keeper-of-the-cards-a-trading-card-game-where-you-can-make-your-own-cards",
+            "description": "Keeper of the Cards - A trading card game where you can make your own cards",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"even\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/dismal-dimensions-action-platformer-work-in-progress\" title=\"Hi all.I would like to share some screenshots of a game I've been working on (using Gamemaker)\"><span class=\"forum-topic-title\">DISMAL DIMENSIONS (Action platformer) -- Work in progress</span></a><br> by <a href=\"/users/pixeltroid\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/pixeltroid\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">pixeltroid</a> » Sat, 2018-04-28 02:11</td><td class=\"views-field views-field-comment-count\"> 10<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/withthelove\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/withthelove\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">withthelove</a><br>Thu, 2018-05-24 15:47</td></tr>",
+            "title": "Hi all.I would like to share some screenshots of a game I've been working on (using Gamemaker)",
+            "url": "https://opengameart.org/forumtopic/dismal-dimensions-action-platformer-work-in-progress",
+            "description": "DISMAL DIMENSIONS (Action platformer) -- Work in progress",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"odd\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/match-3-game\" title=\"I MAKE A GAMEhttp://www.kongregate.com/games/gamebazar99/star-match\"><span class=\"forum-topic-title\">MATCH 3 GAME</span></a><br> by <a href=\"/users/kuldeep600k\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/kuldeep600k\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">kuldeep600k</a> » Thu, 2016-05-26 13:55</td><td class=\"views-field views-field-comment-count\"> 0<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/kuldeep600k\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/kuldeep600k\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">kuldeep600k</a><br>Thu, 2018-05-17 18:01</td></tr>",
+            "title": "I MAKE A GAMEhttp://www.kongregate.com/games/gamebazar99/star-match",
+            "url": "https://opengameart.org/forumtopic/match-3-game",
+            "description": "MATCH 3 GAME",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"even\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-hot topic-icon-node-type-forum\">Hot topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/open-realm-of-stars\" title=\"I have started a new project called Open Realm of Stars. It is going to be 4X strategy game in stars. I am doing the development with Java and Swing. I started the project May 2016.\"><span class=\"forum-topic-title\">Open Realm of Stars</span></a><br> by <a href=\"/users/reemax\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/reemax\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">Reemax</a> » Thu, 2016-08-25 09:06</td><td class=\"views-field views-field-comment-count\"> 34<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/reemax\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/reemax\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">Reemax</a><br>Sun, 2018-05-13 07:37</td></tr>",
+            "title": "I have started a new project called Open Realm of Stars. It is going to be 4X strategy game in stars. I am doing the development with Java and Swing. I started the project May 2016.",
+            "url": "https://opengameart.org/forumtopic/open-realm-of-stars",
+            "description": "Open Realm of Stars",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"odd\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/pyorpg-a-pythonpygame-clone-of-mirage-source\" title=\"Hi there. I wanted to share with you my current project: PyORPG.\"><span class=\"forum-topic-title\">PyORPG - a Python/PyGame clone of Mirage Source</span></a><br> by <a href=\"/users/powrtoch\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/powrtoch\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">powrtoch</a> » Sat, 2013-07-27 13:05</td><td class=\"views-field views-field-comment-count\"> 2<br></td><td class=\"views-field views-field-totalcount\"> 667</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/powrtoch\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/powrtoch\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">powrtoch</a><br>Thu, 2018-05-10 13:09</td></tr>",
+            "title": "Hi there. I wanted to share with you my current project: PyORPG.",
+            "url": "https://opengameart.org/forumtopic/pyorpg-a-pythonpygame-clone-of-mirage-source",
+            "description": "PyORPG - a Python/PyGame clone of Mirage Source",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"even\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/pixel-art-abomination-game-asset\" title=\"AbominationI wanted to continue sharing my art with the community here at OpenGameArt.\"><span class=\"forum-topic-title\">Pixel Art: Abomination -Game Asset-</span></a><br> by <a href=\"/users/one-man-army\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/one-man-army\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">One Man Army</a> » Sun, 2018-05-06 01:45</td><td class=\"views-field views-field-comment-count\"> 1<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/spring\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/spring\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">Spring</a><br>Mon, 2018-05-07 12:33</td></tr>",
+            "title": "AbominationI wanted to continue sharing my art with the community here at OpenGameArt.",
+            "url": "https://opengameart.org/forumtopic/pixel-art-abomination-game-asset",
+            "description": "Pixel Art: Abomination -Game Asset-",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"odd\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/hexabots-android\" title=\"I wrote a casual Android game using art/sound all from Open Game Art:\"><span class=\"forum-topic-title\">Hexabots [Android]</span></a><br> by <a href=\"/users/mdwh\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/mdwh\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">mdwh</a> » Mon, 2018-05-07 07:23</td><td class=\"views-field views-field-comment-count\"> 0<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/mdwh\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/mdwh\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">mdwh</a><br>Mon, 2018-05-07 08:00</td></tr>",
+            "title": "I wrote a casual Android game using art/sound all from Open Game Art:",
+            "url": "https://opengameart.org/forumtopic/hexabots-android",
+            "description": "Hexabots [Android]",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"even\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/pixel-art-arun-swordsmith-game-asset\" title=\"Arun SwordsmithSome more of my artwork. Just recently created a new trailer for this character. Feel free to check it out! :)\"><span class=\"forum-topic-title\">Pixel Art: Arun Swordsmith -Game Asset-</span></a><br> by <a href=\"/users/one-man-army\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/one-man-army\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">One Man Army</a> » Sun, 2018-05-06 01:50</td><td class=\"views-field views-field-comment-count\"> 0<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/one-man-army\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/one-man-army\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">One Man Army</a><br>Sun, 2018-05-06 01:50</td></tr>",
+            "title": "Arun SwordsmithSome more of my artwork. Just recently created a new trailer for this character. Feel free to check it out! :)",
+            "url": "https://opengameart.org/forumtopic/pixel-art-arun-swordsmith-game-asset",
+            "description": "Pixel Art: Arun Swordsmith -Game Asset-",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"odd\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/pixel-art-empire-faction-pack-game-asset\" title=\"Empire - Faction PackI just released a new asset pack! Thought the community here at OpenGameArt might find it interesting.\"><span class=\"forum-topic-title\">Pixel Art: Empire Faction Pack - Game Asset -</span></a><br> by <a href=\"/users/one-man-army\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/one-man-army\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">One Man Army</a> » Mon, 2018-04-30 15:30</td><td class=\"views-field views-field-comment-count\"> 5<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/spring\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/spring\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">Spring</a><br>Thu, 2018-05-03 16:24</td></tr>",
+            "title": "Empire - Faction PackI just released a new asset pack! Thought the community here at OpenGameArt might find it interesting.",
+            "url": "https://opengameart.org/forumtopic/pixel-art-empire-faction-pack-game-asset",
+            "description": "Pixel Art: Empire Faction Pack - Game Asset -",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"even\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/pixel-art-to-vector-art-game\" title=\"I converted pixel sprites to vector sprites check it out and tell me what you thinkhttps://youtu.be/vrcnuPKZxsU (My game)\"><span class=\"forum-topic-title\">Pixel art To Vector art game</span></a><br> by <a href=\"/users/segunben18\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/segunben18\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">segunben18</a> » Wed, 2017-08-23 08:54</td><td class=\"views-field views-field-comment-count\"> 2<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/antumdeluge\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/antumdeluge\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">AntumDeluge</a><br>Wed, 2018-04-25 14:03</td></tr>",
+            "title": "I converted pixel sprites to vector sprites check it out and tell me what you thinkhttps://youtu.be/vrcnuPKZxsU (My game)",
+            "url": "https://opengameart.org/forumtopic/pixel-art-to-vector-art-game",
+            "description": "Pixel art To Vector art game",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"odd\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/touchy\" title=\"I made simple arcade game. You touch screen to guide ball.Download link:\"><span class=\"forum-topic-title\">Touchy</span></a><br> by <a href=\"/users/smoiler\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/smoiler\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">smoiler</a> » Sun, 2018-04-22 20:40</td><td class=\"views-field views-field-comment-count\"> 0<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/smoiler\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/smoiler\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">smoiler</a><br>Sun, 2018-04-22 20:40</td></tr>",
+            "title": "I made simple arcade game. You touch screen to guide ball.Download link:",
+            "url": "https://opengameart.org/forumtopic/touchy",
+            "description": "Touchy",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"even\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/wip-world-one-randomized-rpg-about-exploration\" title=\"Currently I am working on World One, a randomized RPG about exploration using sound effects and art from OGA.\"><span class=\"forum-topic-title\">[WIP] World One: Randomized RPG about exploration!</span></a><br> by <a href=\"/users/tiskolin\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/tiskolin\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">Tiskolin</a> » Mon, 2018-04-16 16:40</td><td class=\"views-field views-field-comment-count\"> 4<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/tiskolin\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/tiskolin\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">Tiskolin</a><br>Wed, 2018-04-18 18:58</td></tr>",
+            "title": "Currently I am working on World One, a randomized RPG about exploration using sound effects and art from OGA.",
+            "url": "https://opengameart.org/forumtopic/wip-world-one-randomized-rpg-about-exploration",
+            "description": "[WIP] World One: Randomized RPG about exploration!",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"odd\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/finished-glowy-space-scripts-asstesunity3d\" title=\"Glowy Space is an asset pack that allows you to create scenes set in outer space with just a few images and a lot of customization options.\"><span class=\"forum-topic-title\">[Finished] Glowy Space + Scripts [Asstes][Unity3D]</span></a><br> by <a href=\"/users/nicolas-castro\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/nicolas-castro\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">Nicolas Castro</a> » Wed, 2018-04-18 11:31</td><td class=\"views-field views-field-comment-count\"> 0<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/nicolas-castro\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/nicolas-castro\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">Nicolas Castro</a><br>Wed, 2018-04-18 12:02</td></tr>",
+            "title": "Glowy Space is an asset pack that allows you to create scenes set in outer space with just a few images and a lot of customization options.",
+            "url": "https://opengameart.org/forumtopic/finished-glowy-space-scripts-asstesunity3d",
+            "description": "[Finished] Glowy Space + Scripts [Asstes][Unity3D]",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"even\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/jellio-project-and-art\" title=\"I didn't want to finish this, so I uploaded the project files and art here for free.\"><span class=\"forum-topic-title\">Jell.io Project and Art</span></a><br> by <a href=\"/users/the-chayed\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/the-chayed\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">The Chayed</a> » Thu, 2018-04-12 21:14</td><td class=\"views-field views-field-comment-count\"> 3<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/the-chayed\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/the-chayed\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">The Chayed</a><br>Sat, 2018-04-14 15:21</td></tr>",
+            "title": "I didn't want to finish this, so I uploaded the project files and art here for free.",
+            "url": "https://opengameart.org/forumtopic/jellio-project-and-art",
+            "description": "Jell.io Project and Art",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"odd\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/my-album-world-3-is-now-free-on-oga\" title=\"i gotta say even though i really wanted to sell my album i'm going to just say *BEEP* it and release it onto here anyways\"><span class=\"forum-topic-title\">My Album World 3 is Now Free on OGA</span></a><br> by <a href=\"/users/distorted-vortex\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/distorted-vortex\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">Distorted Vortex</a> » Sat, 2018-04-14 14:20</td><td class=\"views-field views-field-comment-count\"> 0<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/distorted-vortex\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/distorted-vortex\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">Distorted Vortex</a><br>Sat, 2018-04-14 14:20</td></tr>",
+            "title": "i gotta say even though i really wanted to sell my album i'm going to just say *BEEP* it and release it onto here anyways",
+            "url": "https://opengameart.org/forumtopic/my-album-world-3-is-now-free-on-oga",
+            "description": "My Album World 3 is Now Free on OGA",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"even\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/public-domain-music\" title=\"I've created over 65 tracks of public domain music. I have instrumental, chiptune, and guitar music.Here are a few songs that I wrote. Check out my profile. If you like please favorite.\"><span class=\"forum-topic-title\">Public Domain Music</span></a><br> by <a href=\"/users/amac1990\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/amac1990\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">Amac1990</a> » Mon, 2018-04-09 19:31</td><td class=\"views-field views-field-comment-count\"> 4<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/spring\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/spring\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">Spring</a><br>Wed, 2018-04-11 16:17</td></tr>",
+            "title": "I've created over 65 tracks of public domain music. I have instrumental, chiptune, and guitar music.Here are a few songs that I wrote. Check out my profile. If you like please favorite.",
+            "url": "https://opengameart.org/forumtopic/public-domain-music",
+            "description": "Public Domain Music",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        },
+        {
+            "descriptionRaw": "<tr class=\"odd views-row-last\"><td class=\"views-field views-field-topic-icon\"> <span class=\"topic-icon topic-icon-default topic-icon-node-type-forum\">Normal topic</span></td><td class=\"views-field views-field-title\"> <a href=\"/forumtopic/adelaide-tales-of-gaia\" title=\"Ive been working on a game for about a year now.From nothing just C++ I wrote a DirectX and OpenGL powered engine just for this JRPG\"><span class=\"forum-topic-title\">Adelaide: Tales of Gaia</span></a><br> by <a href=\"/users/illusionofmana\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/illusionofmana\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">IllusionOfMana</a> » Wed, 2018-03-07 16:02</td><td class=\"views-field views-field-comment-count\"> 9<br></td><td class=\"views-field views-field-totalcount\"> 0</td><td class=\"views-field views-field-last-updated active\"> by <a href=\"/users/illusionofmana\" title=\"View user profile.\" class=\"username\" xml:lang=\"\" about=\"/users/illusionofmana\" typeof=\"sioc:UserAccount\" property=\"foaf:name\" datatype=\"\">IllusionOfMana</a><br>Wed, 2018-04-04 00:34</td></tr>",
+            "title": "Ive been working on a game for about a year now.From nothing just C++ I wrote a DirectX and OpenGL powered engine just for this JRPG",
+            "url": "https://opengameart.org/forumtopic/adelaide-tales-of-gaia",
+            "description": "Adelaide: Tales of Gaia",
+            "siteUrl": "https://empireflippers.com",
+            "siteName": "Show off your project",
+            "categoryTags": [
+                "side project"
+            ],
+            "contentTags": [],
+            "dateCreated": "2018-6-25 11:38:18",
+            "urlSource": "https://opengameart.org/forums/show-your-project"
+        }
+    ]

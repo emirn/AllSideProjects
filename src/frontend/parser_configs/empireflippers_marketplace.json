@@ -1,0 +1,61 @@
+{
+  "siteUrlToParse": "https://empireflippers.com/marketplace/",
+  "beginStringForHtmlDiv": "<body>",
+  "endStringForHtmlDiv": "</body>",
+  "occurenceOfBeginString": 1,
+  "occurenceOfEndString": 1,
+  "siteName" : "Businesses For Sale",
+  "categoryTags" : ["empireflippers"],
+  "contentTags" : ["$ for sale"],
+  "siteUrl" : "https://empireflippers.com",
+  "descriptionRawXPath" : "//tr[@class=\"for_sale\"]",
+  "skipEmptyItem" : "true",
+  "debug" : "false",
+  "properties": [
+    {
+      "property": "niche",
+      "xpath": "//td[@title=\"Niche\"]",
+      "regex": "",
+      "valuetype": "text",
+      "addToDescription" : "true",
+      "insertbefore" : " Niche: "
+    },
+    {
+      "property": "date_established",
+      "xpath": "//td[@title=\"Date Created\"]",
+      "regex": "",
+      "valuetype": "text",
+      "addToDescription" : "true",
+      "insertbefore" : " Date established: "
+    },
+    {
+      "property": "url",
+      "xpath": "//td[@title=\"Niche\"]/a/@href",
+      "regex": "",
+      "valuetype": "attrurl",
+      "insertbefore": "https://empireflippers.com"
+    },
+    {
+      "property": "monetization",
+      "xpath": "//td[@title=\"Monetization\"]",
+      "regex": "",
+      "valuetype": "text",
+      "addToDescription" : "true",
+      "insertbefore" : " Monetization: "
+    },
+    {
+      "property": "net_profit",
+      "xpath": "//td[@title=\"Net Profit\"]",
+      "regex": "",
+      "valuetype": "text",
+      "addToDescription" : "true",
+      "insertbefore" : " Net Profit: "
+    },
+    {
+      "property": "price",
+      "xpath": "//td[@title=\"Price\"]",
+      "regex": "[0-9\\.\\,]*",
+      "valuetype": "text"
+    }
+  ]
+}
